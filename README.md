@@ -16,5 +16,5 @@ Source Code for Mufy's script kiddies
 [Download My Apps](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
 [Download My Games](https://gamejolt.com/games/LaserShooterz/338650)   
 [My Youtube Channel](https://bit.ly/nwymof)  
-[3D Art Low Poly Portfolio] (https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
+[3D Art Low Poly Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
 
