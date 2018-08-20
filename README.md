@@ -7,7 +7,6 @@ Source Code for Mufy's script kiddies
 [Game Development: Unity](https://www.awesometuts.com/home)    
 [App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)    
 [App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)    
-[App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)    
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
 
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
