@@ -1,0 +1,651 @@
+<html>
+<head>
+<title>Unemployment in Malaysia</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body id="myPage">
+
+<!-- Navbar -->
+<div class="w3-top">
+ <div class="w3-bar w3-theme-d2 w3-left-align">
+  <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
+  <a href="#" class="w3-bar-item w3-button w3-black w3-hover-white"><i class="fa fa-home w3-margin-right"></i> HOME </a>
+  <a href="#intro" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Introduction</a>
+  <a href="#dataset" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Data Set</a>
+  <div class="w3-dropdown-hover w3-hide-small">
+  <button class="w3-button w3-hover-white" title="Notifications">Analysis<i class="fa fa-caret-down"></i></button> 
+  <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+		<a href="#Hypothesis1" class="w3-bar-item w3-button w3-black w3-hover-white">Hypothesis 1</a>
+		<a href="#Hypothesis2" class="w3-bar-item w3-button w3-black w3-hover-white">Hypothesis 2</a>
+	</div>
+	</div>
+  <a href="#conclusion" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Conclusion</a>
+  <a href="#references" class="w3-bar-item w3-button w3-hide-small w3-hover-white">References</a>
+ </div>
+</div>
+
+<style>
+body {font-family: "Poppins", sans-serif}
+
+.center-justified {
+  text-align: justify;
+  margin: 0 auto;
+  width: 850px;
+}
+
+.FClass {
+    font: italic bold 12px/30px Georgia, serif;
+	max-width:850px
+}
+
+.HFont {
+    font: italic bold 20px arial, sans-serif;
+	font-family: "Montserrat", sans-serif;
+	color: rgb(250,95,11)
+}
+</style>
+<body>
+
+
+
+<!-- Title -->
+<center><big>
+<br id="totop">
+<div style="background-color:rgb(255, 174, 74);">
+<br>
+<br>
+<br>
+<h1 style="font-size:55px;"><b>UNEMPLOYMENT  IN  MALAYSIA</h1></b>
+
+<br>
+<hr>
+</big>
+</center>
+</div>
+
+
+<!-- Introduction -->
+<br>
+<br><center>
+<img src="http://www.meaby.co.uk/wp-content/uploads/2016/07/Employment-Law.png" alt="Unemployment" width="550" height="200">
+<br>
+<br>
+<div class="w3-row w3-padding-64" id="intro"></div>
+<h1 style="font-size:30px;"><b> Introduction &#9874 </b></h1> 
+<hr style="width:240px;border:2px solid rgb(255, 174, 54)">
+<div class="center-justified">
+<p style="max-width:850px">The scenario given is about the unemployment issue in Malaysia. Data regarding unemployment of 14 states in Malaysia has been collected. 
+Reliable and valid websites such as Trading Economics, Data.Gov.My et cetera are used for the data collection to ensure the accurancy and reliabality of the data.
+The data collection is gathered only to the extent of comparing the factors that cause unemployment in Malaysia and the problems associate with unemployment. 
+The objective of gathering this information is to observe any relationships or patterns between the collected data, hence presenting any evidence to support or refute the 
+hypotheses generated. Remarkably, there are two hypotheses generated prior to the data analysis which are <i> "higher GDP growth rate could lead to a lower unemployment rate
+due to economy producing more goods and services thus many labour force will be employed" </i> and <i> "high number of unemployed persons will cause a high number in crime as jobless 
+people tend to be associated with crime".</i></p>
+
+
+<br>
+
+<h6 class="FClass"><i><b>Note</b>: Unemployment is a situation in which there are people in an economy who are willing and able to work, 
+but are jobless. To achieve full employment, there should be no cyclical unemployment
+in the economy. Cyclical unemployment occurs when a country's economic growth is slowing down or declining. 
+However, it is impossible to achieve 0% unemployment rate due to various factors such as: </i></h6>
+
+
+</head>
+
+  <p class="FClass"><i> &#9656 Mismatch between jobs available and the skills for those looking for work</i></p>
+  <p class="FClass"><i> &#9656 Normal short-term unemployment after changing job</i></p>
+  <p class="FClass"><i> &#9656 Seasonal factors</i></p>
+ 
+  
+</center>
+</div>
+<style>
+.circle {
+  height: 5px;
+  width: 5px;
+  background-color: rgb(255, 174, 54);
+  border-radius: 50%;
+  display: inline-block
+}
+</style>
+<br>
+<br>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+table#bgcolour {
+    width: 100%;    
+    background-color: rgb(255, 220, 128);
+}
+</style>
+<br>
+<br>
+
+
+<!-- Hypotheses -->
+<center>
+<h1 style="font-size:30px;"><b> Hypotheses &#9874 </b></h1>
+<hr style="width:220px;border:2px solid rgb(255, 174, 54)">
+<p align="justify" style="max-width:850px"><b> Hypothesis 1 : </b>The higher GDP growth rate, the lower unemployment rate
+due to economy producing more goods and services thus many labour force will be employed</p>
+
+<table style="width:900px" id="bgcolour">
+  <tr>
+    <th>Prediction</th>
+    <td>High GDP growth rate will lead to a fall in unemployment rate</td>
+  </tr>
+  <tr>
+    <th>Variable 1</th>
+    <td>GDP Growth Rate</td>
+  </tr>
+  <tr>
+    <th>Variable 2</th>
+    <td>Unemployment Rate</td>
+  </tr>
+  <tr>
+    <th>Reason</th>
+    <td>Because economy is producing more goods and services thus many laboour force will be employed</td>
+  </tr>
+</table>
+
+<br>
+
+<p style="max-width:850px"><b> Hypothesis 2 : </b> The higher number of unemployed person, the higher number of crime as jobless people tend to 
+commit crime</p>
+
+<table style="width:900px" id="bgcolour">
+  <tr>
+    <th>Prediction</th>
+    <td>An increase in the number of unemployed person could cause a rise in crime rate</td>
+  </tr>
+  <tr>
+    <th>Variable 1</th>
+    <td>Number of unemployed person</td>
+  </tr>
+  <tr>
+    <th>Variable 2</th>
+    <td>Number of crime</td>
+  </tr>
+  <tr>
+    <th>Reason</th>
+    <td>Because jobless people tend to be associated with crime as a way of survival</td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<hr style="width:1400px;border:7px solid rgb(255, 174, 74)">
+
+<br> 
+<br>
+<br>
+
+
+<!-- Data Set -->
+<center>
+<div class="w3-row w3-padding-64" id="dataset"></div>
+<h1 id="dataset" style="font-size:30px;"><b> Data Set &#9874 </b></h1> 
+<hr style="width:155px;border:2px solid rgb(255, 174, 54)">
+
+<br>
+<h2 id="dataset" class="HFont"> Data Gathering Techniques </h2> 
+ <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+
+ 
+<div class="center-justified"> 
+<p style="max-width:850px"> The type of data gathered is secondary data which has been collected by another person.
+The source of the data regarding unemployment in Malaysia is from reports research made by economist, organization and central bank.
+The data collection is done using the monitored and observed websites. Thus, this 
+lowers the chances of gathering inaccurate data which may alter the outcome. There are a few data gathering techniques used which are as follows:</p>
+
+
+<p style="max-width:850px"><b>1. Reporting : </b> Data regarding GDP growth rate, unemployment rate, unemployed person and crime rate in Malaysia 
+are obtained from Trading Economics which is an instituition that is in charge of investigating and collecting data regarding this matter for every country in the world.</p>
+
+
+<p style="max-width:850px"><b>2. Researching : </b> Data regarding factors that cause unemployment and the consequences of unemployment are searched online.</p>
+</div>
+<br>
+
+<!-- Raw Data -->
+<center>
+<h2 id="dataset" class="HFont"> Raw Data </h2> 
+ <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+
+<p align="justify"style="max-width:850px">The raw data that is gathered contains different types of data which can be grouped into two types; 
+qualitative data and quantitative data. Each of this type of data can also be divided into smaller subtypes according to the data.</p>
+<br>
+<center>
+<h2 style="font-size:16px;"><b> 1. Qualitative Data </b></h2> 
+<p align="justify" style="max-width:850px"> Qualitative data does not involve numerical data and it can be categorized into three other data types; nominal, ordinal and binary
+Hence, nominal data is used to represent state data as there are no natural order in the categories and subjects are merely allocated to seperate categorizations.</p>
+
+<figure>
+<img src="https://pbs.twimg.com/media/DaVWW7JU8AEC6se.jpg" alt="Raw Data Qualitative" width="450" height="150">
+<figcaption><b>Figure 1</b>: Sample qualitative data (Nominal data)</figcaption>
+</figure>
+
+<br>
+
+<h2 style="font-size:16px;"><b> 2. Quantitative Data </b></h2> 
+<p align="justify" style="max-width:850px">Some of the data collected involve numerical value which are then categorised into 
+two other data types; discrete and continuous. 
+Discrete data that consists of whole number is represented by the population.</p>
+
+
+<figure>
+<img src="https://pbs.twimg.com/media/DaBbTjuVAAA1RdY.jpg" alt="Raw Data Discrete" width="450" height="150">
+<figcaption><b>Figure 1</b>: Sample quantitative data (Discrete data) </figcaption>
+</figure>
+
+<br>
+<div class="center-justified"> 
+<p style="max-width:850px">On the other hand, continuous data that includes floating point is represented by the GDP growth rate
+for Malaysia from 2014 until 2016.</p>
+</div>
+
+<figure>
+<img src="https://pbs.twimg.com/media/DaUhufzU0AAS9Af.jpg:large" alt="Raw Data Continuous" width="330" height="130">
+<figcaption><b> Figure 2 </b>: Sample quantitative data (Continuous data) </figcaption></figure>
+
+</center>
+
+<br>
+<br>
+<br>
+<br>
+<hr style="width:1400px;border:7px solid rgb(255, 174, 74)">
+<br>
+<br>
+
+<!-- Data Analysis -->
+<div class="w3-row w3-padding-64"></div>
+<h1 style="font-size:30px"><b>Data Analysis &#9874 </b> </h1> 
+<hr style="width:320px;border:2px solid rgb(255, 174, 54)">
+
+<br id="Hypothesis1">
+
+<div class="w3-row w3-padding-40"></div>
+<br>
+<center>
+<h4>Hypothesis 1</h4>
+<h4 align="justify" style="max-width:850px" class="HFont"><b>The higher GDP growth rate, the lower unemployment rate
+due to economy producing more goods and services thus many labour force will be employed</b></h4> 
+ <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+  
+
+<div class="center-justified"> 
+ <p style="max-width:850px"><b> EXPLANATION   &#9998 </b>  The hypothesis is generated to study whether is it true or false that Malaysia's GDP growth rate will 
+ impact unemployment rate. GDP is the final value of goods and services in the market, produced within a country's border in a given period of time. It is used to measure 
+ a country's economic growth as an increase in GDP indicates a positive economic growth and vice versa. In particular, it is assumed that job opportunities in the economy 
+ would increase if the economic is progressing well and producing more. This is because during a positive economic growth, businesses will become more confident to 
+ increase production of goods and services and invest more to maximise their profits. In order for businessess to increase their production, they need to employ more labour force 
+ thus leading to a rise in the job market and lower unemployment rate. </p>
+ </div>
+
+  <br>
+  
+<div class="center-justified"> 
+ <p style="max-width:850px"><b> IMPORTANCE   &#9998 </b>  The hypothesis is important as it can prove that GDP growth rate could affect unemployment rate in Malaysia.
+ That being the case, early steps can be taken in order to ensure Malaysia's economic growth will always stay in an upturn
+ and will not go into a recession so, Malaysia's unemployment rate will 
+ not rise beyond the accepted range set by government. Therefore, government could as well implement new strategies to control GDP growth rate in future. </p>
+</div>
+<br>
+
+<center>
+<h3 style="font-size:17px"><b> &#9630 Outcomes of the test </b></h3>
+
+ <p align="justify" style="max-width:850px"><b> RESULTS   &#9998  </b> The GDP growth rate for every quarter from 2013 to 2015 is obtained from reporting.
+ Meanwhile, the unemployment rate for every 3 months are added to derive the average rate quarterly. This data then is compared to one another to observe the relationship
+ between these two variables.</p>
+
+
+ <center>
+ <br>
+ <figure>
+<img src="https://pbs.twimg.com/media/DaHUYziVMAAgfT7.jpg:large" alt="dataSet1" width="520" height="350">
+<figcaption><b>Figure 3</b>: Summary of unemployment rate vs GDP growth rate</figcaption></figure>
+
+ <br>
+ 
+ 
+
+ <p align="justify" style="max-width:850px"><b> JUSTIFICATION  &#9998 </b>  By observing the graph, it is obviously stated that in the second and third quarter of 2013,
+ GDP growth rate has increased compared to the previous quarter which caused the unemployment rate for these two quarters in 2013 to decrease compared to the previous quarter.
+ However, in the third quarter of 2014, despite GDP growth rate falling, the unemployment rate did not rise. This is because during this period of time, according to 
+ (Utusan Online, 2014), the government and nongovernment instituitions worked hand in hand to help the unemployed person in securing a job especially in industrial economy.
+For the following quarters until the end of 2015, it is shown that as GDP growth rate fall, there is a rise in the unemployment rate. 
+ Indisputably, it is verified that higher GDP growth rate could lead to a lower unemployment rate unless when there are outside factors that support employment in Malaysia. 
+ This manifests that the data analyzed can substantiate the hypothesis.</p>
+
+<br>
+
+<center>
+<figure>
+<iframe src="https://e.infogram.com/7ed0706c-937c-47d8-83a7-82ae68ffb5d5?src=embed" title="Line Chart" width="600" height="600" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/7ed0706c-937c-47d8-83a7-82ae68ffb5d5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Line Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<figcaption><b> Figure 4 </b>: GDP growth rate and unemployment rate for 2013 until 2015</figcaption>
+</figure>
+<br>
+
+<br>
+<br>
+<br>
+<p> &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 
+&#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 
+&#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 
+&#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 &#9632 </P>
+<div class="w3-row w3-padding-34"> </div>
+<div class="w3-row w3-padding-32" id="Hypothesis2"></div>
+<br>
+<h4>Hypothesis 2</h4>
+<h2 align="justify" class="HFont" style="max-width:850px"><b> 2. The higher number of unemployed person, the higher number of crime as jobless people tend to 
+commit crime </b></h2>
+ <div class="circle"></div>
+  <div class="circle"></div>
+  <div class="circle"></div>
+  </div>
+<div class="center-justified"> 
+ <p style="max-width:850px"><b> EXPLANATION   &#9998 </b>  This hypothesis is made to identify the relationship between number of unemployed person 
+ and the crime rate in Malaysia. Crime rate is a measure of the number of crimes recorded in a particular area, over a given period of time. 
+ According to research, unemployment is a crucial factor because the person is marked by the deterioration of living standards. Besides, his emotional 
+ structure becomes unstable and the family will be affected. That being so, the unemployed person might in the end succumb to their desires and commit crimes
+in order to continue with their living expenses (Dumitru, 2012). </p>
+ </div>
+ 
+<br>
+<div class="center-justified"> 
+ <p style="max-width:850px"><b> IMPORTANCE   &#9998  </b> This hypothesis is essential as it can demonstrate the interrelationship between number of unemployed person 
+ and number of crime in Malaysia. Therefore, government can prevent crime rate from increasing by controlling unemployment rate which is the main reason of this complication.</p>
+</div>
+
+<br>
+<center>
+<h3 style="font-size:17px"><b> &#9630 Outcomes of the test </b></h3>
+<div class="center-justified"> 
+ <p style="max-width:850px"><b> RESULTS   &#9998  </b> The monthly data for number of crime and unemployed person for every states from 2013 until 
+ 2015 are obtained from reporting. Then, the data is added together to get the average value of the 3 years. Similar to hypothesis 1, these two variables are compared
+ to one another to observe the patterns and relationships.</p>
+ </div>
+ 
+ <br>
+ <center>
+ <figure>
+<img src="https://pbs.twimg.com/media/DaV-MQnU0AAEB7Y.jpg:large" alt="dataSet2" width="600" height="350">
+<figcaption><b>Figure 5</b> : Summary of average number of unemployed person and crime</figcaption>
+</figure>
+<br>
+
+ <div class="center-justified"> 
+ <p style="max-width:850px"><b> JUSTIFICATION  &#9998 </b> By observing the graph, it is shown that Sabah has the highest average of unemployed person among all 
+ but the average number of crime in Sabah is fewer compared to more than half of the 14 states with only an average of 4856 crimes. It is also shown that Kuala Lumpur 
+ with a smaller average of unemployed person has a larger average of crime compared to Johor which has a larger average of unemployed person but with smaller average of crime. 
+ Overall, state with higher average of unemployed person does not indicate that its crime rate will be high too. This is because, crime is not solely
+done by people who are facing money shortage problem but instead by people who are not being raised well. As seen, crime rate in more developed states are higher
+than the still developing states. This is due to parents in more developed states tend to work overtime and spend less quality time with their children thus,
+ leading them to have the audacity of doing anything that they like including immoral acts. Hence, this proves that the data analyzed can refute the hypothesis. </p>
+ </div>
+ 
+<br>
+<center>
+<figure>
+<iframe src="https://e.infogram.com/a226d323-7911-416e-bcf4-faa5abd9c998?src=embed" title="NUMBER OF UNEMPLOYED PERSON AND CRIME RATE" width="580" height="780" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/a226d323-7911-416e-bcf4-faa5abd9c998" style="color:#989898!important;text-decoration:none!important;" target="_blank">NUMBER OF UNEMPLOYED PERSON AND CRIME RATE</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<figcaption><b> Figure 6</b> : Average number of unemployed person and crime from 2013 until 2015 by states</figcaption>
+</figure>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr style="width:1400px;border:7px solid rgb(255, 174, 74)">
+<br id="conclusion">
+<br>
+<div class="w3-row w3-padding-64" ></div>
+<img src="https://careers.workopolis.com/wp-content/uploads/sites/5/2014/10/dangerous-jobs.jpg" alt="Unemployment" width="400" height="200">
+
+
+<center>
+<h1 style="font-size:20px;"><b> Conclusion</b></h1> 
+<hr style="width:165px;border:2px solid rgb(255, 174, 54)">
+<div class="center-justified"> 
+<p style="max-width:850px">In conclusion, based on all the analysis that has been constructed, it can be concluded that the first hypothesis can be substantiated as the 
+rise in GDP growth rate can cause a fall in unemployment rate in Malaysia. When Malaysia's economy is doing exceptionally well, it could be seen that the unemployment rate 
+will fall. On the contrary, the second hypothesis can be refuted. This is because, an increase in average number of unemployed person does  not reflect an increase in average number of crime.
+In future, the analyzed data used for both hypotheses can still be improved  by using a larger sample of the country and collecting data for at least a decade
+to improve the reliability and accuracy of the findings. </p> </div>
+
+<br>
+<br id="references">
+<hr style="width:1400px;border:7px solid rgb(255, 174, 74)">
+<br>
+<br>
+<br>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Data Source -->
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: rgb(255, 174, 54);
+    color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+</style>
+</head>
+
+<body>
+<div class="w3-row w3-padding-55" ></div>
+
+<!-- Data Source -->
+<h1 style="font-size:20px;"><b>Data Sources</b></h1> 
+<hr style="width:130px;border:2px solid rgb(255, 174, 54)">
+<br>
+
+
+<!-- Trigger/Open The Modal -->
+<button id="myBtn" class="w3-button w3-orange w3-padding-16">Click Here for References</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>References</h2>
+    </div>
+	<div class="center-justified"> 
+    <div class="modal-body">
+      <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Khan, N. L. (April , 2016). Data For Citizens Wellbeing. Retrieved from Data.gov.my: 
+	  http://www.data.gov.my/data/ms_MY/dataset/labour-force-statistics-malaysia-1091+</p>
+	  <br>
+	  <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Khan, N. L. (April , 2016). Data For Citizens Wellbeing. Retrieved from Data.gov.my: 
+	  http://www.data.gov.my/data/ms_MY/dataset/labour-force-statistics-malaysia-1091</P>
+	  <br>
+      <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Malaysia Crime Stats. (n.d.). Retrieved from Nation Master : 
+	  http://www.nationmaster.com/country-info/profiles/Malaysia/Crime/All-stats </p>
+	  <br>
+	  <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Malaysia GDP Growth Rate. (n.d.). Retrieved from Trading Economics: 
+	  https://tradingeconomics.com/malaysia/gdp-growth</p>
+	  <br>
+	  <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Malaysia Unemployment Rate . (n.d.). Retrieved from Trading Economica: 
+	  https://tradingeconomics.com/malaysia/unemployment-rate</p>
+	  <br>
+	  <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">Utusan Online. (2014, Nov, 12) Kadar pengangguran di Melaka masih terendah sebanyak 0.8%. 
+	  Retrieved from http://www.utusan.com.my/berita/wilayah/kadar-pengangguran-di-melaka-8232-masih-terendah-sebanyak-0-8-peratus-1.23519</p>
+	  <br>
+	  <p style="text-indent:-3cm; padding-left:3cm; max-width:600px">W3SCHOOLS.COM. (n.d.). Retrieved from https://www.w3schools.com/default.asp</p>
+    </div>
+	</div>
+  </div>
+
+</div>
+<img src="https://www.snappydata.io/assets/images/homePage/Home-carousal-illos-02-unifydata.jpg" alt="Sources" width="400" height="300">
+
+<br>
+<br>
+<br>
+<hr style="width:1400px;border:7px solid rgb(255, 174, 74)">
+<br>
+<br>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+}
+</style>
+<br>
+<br>
+<br>
+<br>
+ <!-- Data Science Report -->
+    <h1 style="font-size:20px;"><b> Data Science Report</b></h1> 
+    <hr style="width:220px;border:2px solid rgb(255, 174, 54)">
+    <p style="max-width:850px"><b><i>This is a data science report for data science project in ICT subject. This report is made by Group 1 from class 2-3.</b></i></p>
+    <br>
+    <br>
+   <img src="https://pbs.twimg.com/media/DZyD1LJUQAEgjdQ.png" alt="Avatar" class="w3-circle w3-margin-right" style="width:80px">
+      <p><span class="w3-large w3-text-black w3-margin-right">NIK NURULFAKHIRAH SHAMSUL ZUHAIRI</span></p>
+    <p>group member</p>
+    <p>17073115</p>
+    <p>fakhirahshamsul99@gmail.com</p><br>
+   
+   <img src="https://pbs.twimg.com/media/DZyD5zuV4AA66nS.jpg" alt="Avatar" class="w3-circle w3-margin-right" style="width:80px">
+    <p><span class="w3-large w3-text-black w3-margin-right">TAN PEI KEI</span></p>
+    <p>group member</p>
+    <p>17078593</p>
+    <p>tpeggyx@gmail.com</p><br>
+    
+  <!-- Footer -->   
+<style>
+.footer {
+    background-color: rgb(255, 174, 54);
+    padding: 20px;
+    text-align: center;
+	}
+</style>
+
+<footer class="w3-container w3-orange" style="padding:32px">
+	<a href="#totop" class="w3-button w3-black w3-padding-large w3-margin-bottom">Go back to top</a>
+</footer>
+
+</body>
+</html>
