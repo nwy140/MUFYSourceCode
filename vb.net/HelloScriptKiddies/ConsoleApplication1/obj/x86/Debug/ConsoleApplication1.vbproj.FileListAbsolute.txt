@@ -1,0 +1,19 @@
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\17109182\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\bin\Debug\HelloScriptKiddies.exe
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\bin\Debug\HelloScriptKiddies.pdb
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\bin\Debug\HelloScriptKiddies.xml
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\obj\x86\Debug\HelloScriptKiddies.Resources.resources
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\obj\x86\Debug\HelloScriptKiddies.exe
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\obj\x86\Debug\HelloScriptKiddies.xml
+D:\Git\mufysourcecode\vb.net\HelloScriptKiddies\ConsoleApplication1\obj\x86\Debug\HelloScriptKiddies.pdb
