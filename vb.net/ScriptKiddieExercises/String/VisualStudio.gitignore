@@ -330,3 +330,11 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+
+*/bin
+*/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
