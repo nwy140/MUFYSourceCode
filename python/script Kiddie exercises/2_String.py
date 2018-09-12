@@ -9,5 +9,13 @@ print (lowercase)
 
 check = 'abcd'
 
+print ('a' in check)
 
-	
+
+River = 'Mississippi'
+#replace s with 0
+
+I = int(0)
+
+for I in River:
+	if River[I] == 0:
