@@ -27,4 +27,6 @@ Age =input ('what is your age')
 Next = int(Age)+1
 print ('on your next birthday, you will be ' + str(Next))
 
+input()
+
 

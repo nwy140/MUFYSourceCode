@@ -1,6 +1,6 @@
 
 
-print ('Dexter was named after Dexter from the television show “Perfect Match')
+print ('Dexter was named after Dexter from the television show “Perfect Match"')
 
 Uppercase = 'MUFY IS FOR SCRIPT KIDDIES'
 
@@ -14,8 +14,12 @@ print ('a' in check)
 
 River = 'Mississippi'
 #replace s with 0
+replacedRiver = River.replace('s', '0')
 
-I = int(0)
+print(replacedRiver)
 
-for I in River:
-	if River[I] == 0:
+Password = 'MUFY IS FOR SCRIPT KIDDIES'
+Password = input ('whats your name \n')
+
+
+print ("Length of password " + str(len(Password)))
