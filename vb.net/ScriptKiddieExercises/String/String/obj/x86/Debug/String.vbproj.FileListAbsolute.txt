@@ -1,0 +1,8 @@
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\obj\x86\Debug\String.vbproj.GenerateResource.Cache
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\bin\Debug\String.exe
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\bin\Debug\String.pdb
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\bin\Debug\String.xml
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\obj\x86\Debug\String.exe
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\obj\x86\Debug\String.xml
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\String\String\obj\x86\Debug\String.pdb
