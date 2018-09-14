@@ -72,7 +72,7 @@
 
         Dim D As Double = CInt(InputBox("Enter Number D"))
 
-
+        'Display calculation
         Console.WriteLine(C + D)
 
         'Ex3
@@ -81,12 +81,16 @@
 
         Dim UserName As String = Name + Str(Number)
 
+        'Display username followed by number
         Console.WriteLine(UserName)
 
         'Ex4
+
         Dim yourname As String = InputBox("Enter your name")
         Dim yearofBirth As Integer = InputBox("Enter your year of birth")
         Dim age As Integer = Date.Today.Year - yearofBirth
+
+        'Display details of your birthday
         Console.WriteLine("Hi, " + yourname + ", you were born in " + Str(yearofBirth) + ", so this year on your birthday, you will be " + Str(age) + " years old.")
 
 
@@ -96,7 +100,23 @@
         Dim newC As Integer = newA + newB
         Dim newD As Decimal = CDec(newC / 7)
 
+        'Display calculation
         Console.WriteLine(Str(Math.Round((newD), 2)))
+
+        'Extension Activity
+        Dim EXUSERNAME As String = InputBox("Enter your username")
+        Dim length As String = Len(EXUSERNAME)
+        EXUSERNAME = EXUSERNAME.ToUpper()
+        Dim email As String = InputBox("Enter your email")
+        Dim trueorfalse As Boolean = email.Contains("@")
+        Dim password As String = InputBox("Enter your Password")
+        password = password.Replace("o", "#")
+        Dim salary As String = InputBox("Enter your salary")
+        Dim loanamount As Double = salary ^ 2
+
+        Console.WriteLine("Hi " + Name + ", the length of your username is " + length + ", your email address contains a '@' symbol is" + trueorfalse + " and your password is " + password + ". With your weekly salary being" + salary + "yourname can borrow" + loanamount)
+
+
 
     End Sub
 
