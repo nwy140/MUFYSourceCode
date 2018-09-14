@@ -43,13 +43,22 @@
         Console.WriteLine((4 ^ 2).ToString())
         Console.WriteLine((5 ^ 2).ToString())
 
-        Console.WriteLine("Alternate way using for loop")
+        Console.WriteLine("Alternate way using for loop3")
         'Alternate way
 
         For index As Integer = 1 To 5
             Console.WriteLine((index) ^ 2.ToString)
         Next
 
+        'Ex7
+        'Set hourly rate at 15.25
+        Dim Rate As Double = 15.25
+        'User input hours worked
+        Dim Hours As Double = InputBox("Enter hours worked")
+        'Calculate Pay based on Rate and Hours
+        Dim Pay As Double = Rate * Hours
+        'Display Pay
+        Console.WriteLine("Pay: " + Str(CDec(Pay)))
 
     End Sub
 
