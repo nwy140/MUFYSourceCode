@@ -1,8 +1,11 @@
 ﻿Module Module1
 
     Sub Main()
+        'Inputs are not protected thus program will crush if expected input is not the type desired
         'Manipulating Numbers
         'Ex1
+
+
         Console.WriteLine((4 + 5).ToString())
         Console.WriteLine((3 - 4).ToString())
         Console.WriteLine((45 / 9).ToString())
