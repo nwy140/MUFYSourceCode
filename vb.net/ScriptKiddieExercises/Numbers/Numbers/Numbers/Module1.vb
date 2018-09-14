@@ -1,6 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
+        'Manipulating Numbers
         'Ex1
         Console.WriteLine((4 + 5).ToString())
         Console.WriteLine((3 - 4).ToString())
@@ -59,6 +60,43 @@
         Dim Pay As Double = Rate * Hours
         'Display Pay
         Console.WriteLine("Pay: " + Str(CDec(Pay)))
+
+        'Combining numbers and strings
+        'Ex1
+        Dim A As String = CInt(5)
+        Dim B As String = CInt(4)
+        Console.WriteLine("A+B = " + Str(CInt(A) + CInt(B)))
+
+        'Ex2
+        Dim C As Double = CInt(InputBox("Enter Number C"))
+
+        Dim D As Double = CInt(InputBox("Enter Number D"))
+
+
+        Console.WriteLine(C + D)
+
+        'Ex3
+        Dim Name As String = InputBox("What is your Name?")
+        Dim Number As Integer = 1001
+
+        Dim UserName As String = Name + Str(Number)
+
+        Console.WriteLine(UserName)
+
+        'Ex4
+        Dim yourname As String = InputBox("Enter your name")
+        Dim yearofBirth As Integer = InputBox("Enter your year of birth")
+        Dim age As Integer = Date.Today.Year - yearofBirth
+        Console.WriteLine("Hi, " + yourname + ", you were born in " + Str(yearofBirth) + ", so this year on your birthday, you will be " + Str(age) + " years old.")
+
+
+        'Ex5
+        Dim newA As Integer = 4
+        Dim newB As Integer = 9
+        Dim newC As Integer = newA + newB
+        Dim newD As Decimal = CDec(newC / 7)
+
+        Console.WriteLine(Str(Math.Round((newD), 2)))
 
     End Sub
 
