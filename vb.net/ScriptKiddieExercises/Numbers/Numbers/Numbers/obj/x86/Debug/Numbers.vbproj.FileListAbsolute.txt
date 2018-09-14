@@ -1,0 +1,8 @@
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\obj\x86\Debug\ConsoleApplication1.Resources.resources
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\obj\x86\Debug\Numbers.vbproj.GenerateResource.Cache
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\bin\Debug\Numbers.pdb
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\bin\Debug\Numbers.xml
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\obj\x86\Debug\Numbers.exe
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\obj\x86\Debug\Numbers.xml
+D:\Git\mufysourcecode\vb.net\ScriptKiddieExercises\Numbers\Numbers\Numbers\obj\x86\Debug\Numbers.pdb
