@@ -1,32 +1,34 @@
 ﻿Module Module1
     'Declare global variables
-    Dim Cost As Decimal
+    Dim Days As Integer
+    Dim Cost As Single
+    Const charge As Single = 15
+    Const rental As Single = 54
+
     Sub Main()
-        'Declare private variables
-        Dim Days As Integer
 
+        Call Input()
         ' Set days as input's return value
-        Days = Input()
-        'proocess days
 
-        Cost = CDec(Processing(Days))
+        'proocess days
+        Call Processing()
 
         'Call output to display
         Call Output()
     End Sub
 
-    Function Input()
+    Sub Input()
         Console.WriteLine("How many days do you want the hire car?")
 
-        Return (Console.ReadLine())
-    End Function
+        Days = Console.ReadLine
+    End Sub
 
-    Function Processing(Days As Integer)
-        Return (Days * 54) + 10
+    Function Processing()
+        Cost = (Days * rental) + charge
     End Function
 
     Sub Output()
-        Console.WriteLine("The cost of the car hire is" + Str(Cost))
+        Console.WriteLine("The cost of the car hire is" & FormatCurrency(Cost))
     End Sub
 
 
