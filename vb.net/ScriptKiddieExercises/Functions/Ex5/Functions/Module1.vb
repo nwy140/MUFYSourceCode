@@ -25,20 +25,20 @@
         name = Console.ReadLine
         Console.WriteLine("How many bicycles do you want to hire? ")
 
-        bikeNum = Cint(Console.ReadLine) 
+        bikeNum = Console.ReadLine
         Console.WriteLine("How many hours do you want the hire bicycle? ")
 
         Hours = Console.ReadLine
     End Sub
 
-    Function Processing(Hours As String , bikeNum)
-   ' Calculate rental by hour and add charges 
-        Cost = bikeNum * Hours* rental + charge
-    End Function
+    Sub Processing(Hours As String, bikeNum As Integer)
+        ' Calculate rental by hour and add charges 
+        Cost = bikeNum * Hours * rental + charge
+    End Sub
 
     Sub Output()
        ' Display name,  bicycle number and total cost
-        Console.WriteLine("""name"""& ", the cost of " & bikeNum & " bicycles for 2 hours is a TOTAL of " & FormatCurrency(Cost))
+        Console.WriteLine("""" & name & """" & ", the cost of " & bikeNum & " bicycles for " & Hours & " hours is a TOTAL of " & FormatCurrency(Cost))
     End Sub
 
 

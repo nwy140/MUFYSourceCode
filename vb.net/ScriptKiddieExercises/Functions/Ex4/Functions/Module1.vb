@@ -23,13 +23,13 @@
         Days = Console.ReadLine
     End Sub
 
-    Function Processing(Days As String )
-   ' Calculate rental by day and add charges 
-        Cost = (Days* rental) + charge
-    End Function
+    Sub Processing(Days As String)
+        ' Calculate rental by day and add charges 
+        Cost = (Days * rental) + charge
+    End Sub
 
     Sub Output()
-        Console.WriteLine("The cost of the ski hire is" & FormatCurrency(Cost))
+        Console.WriteLine("The cost of the ski hire is " & FormatCurrency(Cost))
     End Sub
 
 
