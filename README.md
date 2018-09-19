@@ -3,6 +3,7 @@ Source Code for Mufy's script kiddies
 
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
+[Web/App Development FrameWorks: React Redux, BootStrap, NodeJS](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 [App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)    
 [App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)   
 [Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
