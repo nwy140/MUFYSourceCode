@@ -7,11 +7,11 @@
     </ProductVersion>
     <SchemaVersion>
     </SchemaVersion>
-    <ProjectGuid>{B8A72342-32A7-42A7-A365-1718F340A76F}</ProjectGuid>
+    <ProjectGuid>{572D8567-52CB-4417-BB60-B8B5E87E37F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <StartupObject>ConsoleApplication1.Module1</StartupObject>
     <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>SequenceandSelection</AssemblyName>
+    <AssemblyName>Excercise 5</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -24,7 +24,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>SequenceandSelection.xml</DocumentationFile>
+    <DocumentationFile>Excercise 5.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
@@ -34,7 +34,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>SequenceandSelection.xml</DocumentationFile>
+    <DocumentationFile>Excercise 5.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
