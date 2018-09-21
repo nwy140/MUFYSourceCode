@@ -18,15 +18,11 @@
         Console.WriteLine("How many lines of Numbers do you want?")
         Dim Count As Integer = Console.ReadLine()
         For i = 1 To Count
-
             For a = 1 To i
                 Console.Write(i)
             Next
             Console.WriteLine()
             Number = Number + 1
         Next
-
     End Sub
-
-
 End Module

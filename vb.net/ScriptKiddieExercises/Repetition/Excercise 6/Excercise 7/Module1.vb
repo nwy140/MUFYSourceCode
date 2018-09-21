@@ -2,16 +2,24 @@
 
     Dim userName As String
     Dim password As String
-    Dim authMessage As String = "Application Locked"
+    Dim authMessage As String = "Application Locked - Ring into network manager for assistance"
 
     Sub Main()
         Console.WriteLine("Authenticating Vault")
 
+        auth()
+
+        Console.WriteLine(authMessage)
+        'Stop program from exiting on release build
+        Console.ReadLine()
+    End Sub
+
+    Sub auth()
         '3 Changes of entering authentication
         For i = 1 To 3
             'User enters authentication
             Console.WriteLine("Please Enter Username")
-            userName = Console.ReadLine()
+            userName = LCase(Console.ReadLine())
 
             Console.WriteLine("Please Enter Password")
             password = Console.ReadLine()
@@ -25,15 +33,14 @@
                 Console.WriteLine("Incorrect Password ")
             Else
                 'Change authentication message
-                authMessage = "Vaults Opens"
-                'Continue / Break equilavent in vb.net from C++
-                Exit For
+                authMessage = "Correct username and password. Vaults Opens"
+                'Continue / Break equilavent for loop in vb.net from C++
+                'Exit For
+                'Exit sub returns null for the procedure
+                Exit Sub
+
             End If
         Next
-        Console.WriteLine(authMessage)
-
-        'Stop program from exiting on release build
-        Console.ReadLine()
+        
     End Sub
-
 End Module
