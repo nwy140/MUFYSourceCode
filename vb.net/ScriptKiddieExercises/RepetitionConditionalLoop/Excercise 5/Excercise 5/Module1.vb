@@ -4,9 +4,10 @@
     Dim Total As Integer = 0
     Dim Average As Integer = 0
     Sub Main()
-        Console.WriteLine("Please enter number")
+        Console.Write("Please enter number: ")
         i = Console.ReadLine()
         While i <> 999
+    
             i = i + 1
             Console.WriteLine("The number is " & i)
             Total = Total + i
