@@ -1,8 +1,8 @@
 ﻿Module Module1
     ' Declare global variables
     Dim assesmentNum As Integer = 4
-    Dim TotalMarks As Single = 50
-    Dim marksNum(4) As Integer
+    Dim TotalMarks As Single = 100
+    Dim marksNum(20) As Integer
 
     Dim Total As Single
     Dim Average As Single
@@ -19,7 +19,9 @@
 
 
     Sub InputNumber()
-
+        'User input number of Assesments
+        Console.WriteLine("Enter Number of assesment ")
+        assesmentNum = Console.ReadLine()
 
         'Users input added as elements to array
         For i = 1 To (assesmentNum)
@@ -38,7 +40,7 @@
         For i = 1 To (assesmentNum)
             Total = marksNum(i) + Total
         Next
-        Average = (Total / (assesmentNum * TotalMarks))
+        Average = Total / (assesmentNum * TotalMarks)
         Console.WriteLine("Total: " & Total)
         Console.WriteLine("Average: " & FormatPercent(Average))
         Console.WriteLine("Minimum: " & marksNum.Min())
@@ -47,9 +49,9 @@
         'Calculate Grade
         If (Average >= 0.8) Then
             Grade = "HD"
-        ElseIf Average >= 0.7 And Average < 0.8 Then
+        ElseIf Average >= 0.7 And Average <= 0.8 Then
             Grade = "D"
-        ElseIf Average >= 0.6 And Average < 0.7 Then
+        ElseIf Average >= 0.6 And Average <= 0.7 Then
             Grade = "C"
         ElseIf Average >= 0.5 And Average <= 0.6 Then
             Grade = "P"
@@ -57,6 +59,7 @@
             Grade = "F"
         End If
         Console.WriteLine("Students Grade: " & Grade)
+
     End Sub
 
 

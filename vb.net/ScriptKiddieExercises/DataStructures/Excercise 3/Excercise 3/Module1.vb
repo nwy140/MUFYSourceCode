@@ -1,17 +1,15 @@
 ﻿Module Module1
 
     'Declare array by size and type
-    Dim Num(9) As String
+    Dim Num(9) As Integer
 
     'Declare other variables
     Dim number As Integer
-    Dim Total As Integer
-    Dim Average As Integer
+    Dim Total As Single
+    Dim Average As Single
 
     Sub Main()
         InputNumber()
-
-
 
         Calculate()
     End Sub
@@ -20,6 +18,8 @@
         For i = 0 To 9
             Console.WriteLine("Enter Number:  " & Str(i))
             Num(i) = Console.ReadLine() + " "
+ 
+
         Next
 
     End Sub
@@ -32,8 +32,9 @@
         Next
         Average = Total / (9 + 1)
         Console.WriteLine("Total: " & Total)
-        Console.WriteLine("Average: " & Average)
-
+        Console.WriteLine("Average: " & FormatCurrency(Average))
+        Console.WriteLine("Minimum: " & Num.Min())
+        Console.WriteLine("Maximum: " & Num.Max())
     End Sub
 
 End Module
