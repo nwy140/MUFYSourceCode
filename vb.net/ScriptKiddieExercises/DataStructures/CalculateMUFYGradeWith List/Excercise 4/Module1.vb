@@ -67,6 +67,7 @@
             Grade = "F"
         End If
         Console.WriteLine("Student " & name & " Percentage: " & Average & " Grade: " & Grade)
+        Console.WriteLine()
     End Sub
 
 
