@@ -16,10 +16,9 @@
             userName = Console.ReadLine()
         End While
         'User inputs pasword , pasword must be present and greater than 8
-        While password = "" And Len(password) < 8
+        While password = "" Or Len(password) < 8
             Console.WriteLine("enter your password")
             password = Console.ReadLine()
-
         End While
 
         'Display valid text when user enters information correctly

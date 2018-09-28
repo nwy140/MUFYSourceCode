@@ -17,7 +17,9 @@
             Weight = Console.ReadLine()
             If Weight = "" Then
                 Console.WriteLine("Weight not entered properly - please try again")
+                Exit While
                 Weight = ""
+
             End If
             If IsNumeric(Weight) = False Or Weight > 200 Or Weight < 0 Then
                 Console.WriteLine("Weight must be entered as a number, Weight must be between 0 and 200 KG")

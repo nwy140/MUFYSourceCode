@@ -20,6 +20,7 @@
             Tax = Salary * 0.3
         End If
         Console.WriteLine("Salary:" & Str(Salary) & " ,Tax:" & Str(Tax))
+        'Console.ReadLine()
     End Sub
 
 End Module

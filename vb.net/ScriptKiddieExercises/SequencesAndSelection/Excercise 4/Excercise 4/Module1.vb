@@ -2,7 +2,7 @@
 
     Sub Main()
         Console.WriteLine("Input Test Score")
-        Dim testScore As Integer = CInt(Console.ReadLine())
+        Dim testScore As Single = CInt(Console.ReadLine())
         If testScore >= 75 Then
             Console.WriteLine("You passed Dexter!")
         Else

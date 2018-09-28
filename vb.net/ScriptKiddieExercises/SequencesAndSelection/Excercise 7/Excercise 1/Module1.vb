@@ -6,10 +6,12 @@
 
         Dim Name As String = Console.ReadLine()
         Dim Age As Integer = 99
-        If Name = "Dexter" Then
+        If LCase(Name) = "dexter" Then
             Console.WriteLine(Name & " you are so cool")
+        Else
+            Console.WriteLine(Name & ", you are " & Age & ", dude your are really old")
+
         End If
-        Console.WriteLine(Name & ", you are " & Age & ", dude your are really old")
     End Sub
 
 End Module
