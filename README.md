@@ -13,6 +13,8 @@ Source Code for Mufy's script kiddies
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
 
+[Free Courses](https://www.bitdegree.org/courses?tag=game-dev)
+
 # Self Promotion
 [Download My Apps](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
 [Download My Games](https://gamejolt.com/games/LaserShooterz/338650)   
