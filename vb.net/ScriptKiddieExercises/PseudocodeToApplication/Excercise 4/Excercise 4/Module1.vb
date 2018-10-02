@@ -1,20 +1,37 @@
 ﻿Module Module1
-    ' Declare global variables
-    Dim i As Integer = 0
-    Dim Total As Integer = 0
-    Dim Average As Integer = 0
+
+    'Declare Global Variables 
+    Dim magicnum As Integer
+    Dim guessnum As Integer
+    'Main procedure
     Sub Main()
-        Console.WriteLine("Please enter number")
-        i = Console.ReadLine()
-        While i <> 999
-            i = i + 1
-            Console.WriteLine("The number is " & i)
-            Total = Total + i
-            Console.WriteLine("The total is " & Total)
-            Average = Total / i
-            Console.WriteLine("The Average is " & Average)
-        End While
-        Console.WriteLine("The end")
+        magicnum = 47
+        Call inputnum()
+
     End Sub
 
+    Sub inputnum()
+        Console.WriteLine("Guess the magic number")
+        guessnum = Console.ReadLine
+        Call Evaluate()
+        While magicnum <> guessnum Or guessnum < 1 Or guessnum > 100
+            Console.WriteLine("Guess the magic number")
+            guessnum = Console.ReadLine
+            Call Evaluate()
+        End While
+    End Sub
+
+    Sub Evaluate()
+        If guessnum < 1 Or guessnum > 100 Then
+            Console.WriteLine("Number out of range")
+        End If
+        If magicnum = guessnum Then
+            Console.WriteLine("You guess the magic number! " & magicnum)
+        ElseIf magicnum > guessnum Then
+            Console.WriteLine("Higher")
+        ElseIf magicnum < guessnum Then
+            Console.WriteLine("Lower")
+        End If
+
+    End Sub
 End Module
