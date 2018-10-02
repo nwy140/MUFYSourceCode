@@ -24,13 +24,13 @@
     Sub Evaluate()
         If guessnum < 1 Or guessnum > 100 Then
             Console.WriteLine("Number out of range")
-        End If
-        If magicnum = guessnum Then
-            Console.WriteLine("You guess the magic number! " & magicnum)
+
+        ElseIf magicnum = guessnum Then
+        Console.WriteLine("You guess the magic number! " & magicnum)
         ElseIf magicnum > guessnum Then
-            Console.WriteLine("Higher")
+        Console.WriteLine("Higher")
         ElseIf magicnum < guessnum Then
-            Console.WriteLine("Lower")
+        Console.WriteLine("Lower")
         End If
 
     End Sub
