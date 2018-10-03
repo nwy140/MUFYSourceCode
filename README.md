@@ -21,3 +21,5 @@ Source Code for Mufy's script kiddies
 [My Youtube Channel](https://bit.ly/nwymof)  
 [3D Art Low Poly Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
 
+# Development Tools
+[CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)
