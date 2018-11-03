@@ -1,6 +1,3 @@
-# MUFYSourceCode
-Source Code for Mufy's script kiddies 
-
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
 [Web/App Development FrameWorks: React Redux, BootStrap, NodeJS](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos)  
