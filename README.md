@@ -12,6 +12,20 @@
 
 [Free Courses](https://www.bitdegree.org/courses?tag=game-dev)
 
+# Documentation Search
+[SymbolHound](http://symbolhound.com)  
+[StackOverflow](https://stackoverflow.com/tags)  
+[UnityForums](https://forum.unity.com/)  
+[UnrealForums](https://forums.unrealengine.com/)
+
+
+# Marketing
+GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
+PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
+
+
+
+
 # Self Promotion
 [Download My Apps](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
 [Download My Games](https://gamejolt.com/games/LaserShooterz/338650)   
