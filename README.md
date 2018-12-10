@@ -7,7 +7,7 @@
 [Game Development: Unreal Engine Development](https://www.youtube.com/watch?v=1M3S3eiJK5I&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)  
 [Game Development: Unity](https://learn.awesometuts.com/p/unity3d-free-course)    
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
-[Artwork : Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
+[Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
 
