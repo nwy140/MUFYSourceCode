@@ -6,7 +6,7 @@
 [Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
 [Game Development: Unreal Engine Development](https://www.youtube.com/watch?v=1M3S3eiJK5I&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)  
 [Game Development: Unity](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)   
-[Game Development: Fungus Visual Novel Maker in Unity](https://assetstore.unity.com/packages/templates/systems/fungus-34184)
+[Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
