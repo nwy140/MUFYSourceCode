@@ -1,5 +1,5 @@
 # Stuff you should learn
-[Web Development Html,Css,Javascript](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)  
+[Web Development Html,Css,Javascript](https://www.freecodecamp.org/)  
 [Web/App Development FrameWorks: React Redux, BootStrap, NodeJS](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos)  
 [App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)    
 [App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)   
