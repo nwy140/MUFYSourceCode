@@ -1,4 +1,4 @@
-This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md).   // but i will still promote myself anyway
+This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md). ~~but i will still promote myself anyway~~
 
 
 # Math  
@@ -9,6 +9,16 @@ This markdown written text file is a place dedicated purely to listing Academic 
 [Calculus 2: Lamar Notes](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)  
 
 [Calculus : PatrickJmt](http://patrickjmt.com/#calculus)  
+
+
+
+
+
+
+
+
+
+
 
 
 
