@@ -1,4 +1,4 @@
-This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md).  
+This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md).   // but i will still promote myself anyway
 
 
 # Math  
@@ -10,3 +10,10 @@ This markdown written text file is a place dedicated purely to listing Academic 
 
 [Calculus : PatrickJmt](http://patrickjmt.com/#calculus)  
 
+
+
+# Self Promotion
+[Download My Apps](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
+[Download My Games](https://gamejolt.com/games/LaserShooterz/338650)   
+[My Youtube Channel](https://bit.ly/nwymof)  
+[3D Art Low Poly Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
