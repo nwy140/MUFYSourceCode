@@ -11,12 +11,12 @@
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
+
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
+[Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
 [Git GUI Client: GitKraken](https://www.gitkraken.com/)  
 
-[Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
-
-[Free Courses](https://www.bitdegree.org/courses?tag=game-dev)
+[~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)  
 
 # University Of Utah  (We are one step ahead!!!)
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
