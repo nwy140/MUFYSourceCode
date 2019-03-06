@@ -16,7 +16,7 @@
 
 [Free Courses](https://www.bitdegree.org/courses?tag=game-dev)
 
-# U Of Utah
+# University Of Utah
 [Utah School Of Computing CS Lectures](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 
 
