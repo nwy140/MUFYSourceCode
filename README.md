@@ -19,7 +19,7 @@
 # University Of Utah  (We are one step ahead!!!)
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
-[Academic Resource](https://github.com/nwy140/MUFYSourceCode/edit/master/PureAcademia.md)  
+[General Academic Resources](https://github.com/nwy140/MUFYSourceCode/edit/master/PureAcademia.md)  
 
 # Documentation Search
 [SymbolHound](http://symbolhound.com)  
