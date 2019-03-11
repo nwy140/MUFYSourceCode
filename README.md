@@ -18,10 +18,6 @@
 
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)  
 
-# University Of Utah  (We are one step ahead!!!)
-[Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
-[CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
-[General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 
 # Documentation Search
 [SymbolHound](http://symbolhound.com)  
@@ -29,12 +25,14 @@
 [UnityForums](https://forum.unity.com/)  
 [UnrealForums](https://forums.unrealengine.com/)
 
-
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
 
-
+# University Of Utah  (We are one step ahead!!!)
+[Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
+[CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
+[General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 
 
 # Self Promotion
