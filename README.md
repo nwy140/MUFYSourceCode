@@ -43,7 +43,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
 
-[3D Art Low Poly Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   ... horrible programmer art
+[3D Art Low Poly Programmer Art Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
 
 
 # Development Tools
