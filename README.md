@@ -36,10 +36,13 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 
 # Self Promotion
-[Download My Apps](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
-[Download My Games](https://gamejolt.com/games/LaserShooterz/338650)   
+[Download My Apps On Playstore](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
+[Download My Games On Itch.io](https://silentwolfstudios.itch.io/)   
+[Download My Games On GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [My Youtube Channel](https://bit.ly/nwymof)  
 [3D Art Low Poly Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
+[Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
+[Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
 
 # Development Tools
 [CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)
