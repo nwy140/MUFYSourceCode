@@ -33,6 +33,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
+[Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&index=3&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv)  
 
 
 # Self Promotion
@@ -40,6 +41,8 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Download My Games On Itch.io](https://silentwolfstudios.itch.io/)   
 [Download My Games On GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [My Youtube Channel](https://bit.ly/nwymof)  
+
+[Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
 
