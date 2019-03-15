@@ -1,7 +1,7 @@
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://www.freecodecamp.org/)  
 [Web/App Development FrameWorks: React Redux, BootStrap, NodeJS](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos)  
-[App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)  [Alternative Tutorial 1](https://www.youtube.com/playlist?list=PLY4yL8CZKCYzN1VoGU-HUCWz-IW6xJJwF)    
+[App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)  [,  Alternative Tutorial 1](https://www.youtube.com/playlist?list=PLY4yL8CZKCYzN1VoGU-HUCWz-IW6xJJwF)    
 [App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)   
 [Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
 [Game Development: Unreal Engine Development](https://www.youtube.com/watch?v=1M3S3eiJK5I&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)  
