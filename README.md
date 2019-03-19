@@ -7,7 +7,7 @@
 [Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
 [Game Development: Unreal Engine Development](https://www.youtube.com/watch?v=1M3S3eiJK5I&list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC)  
 [Game Development: Unity](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)   
-[Game Developpment: Unity LongTutorials](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw/videos)  
+[Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
