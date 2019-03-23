@@ -10,7 +10,7 @@
 [Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
-[Game Development : Design Patterns & Code Architecture](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj) [, Design Patterns Book](http://www.gameprogrammingpatterns.com/architecture-performance-and-games.html)  
+[Game Development : Design Patterns & Code Architecture](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj)[, Design Patterns Book](http://www.gameprogrammingpatterns.com/architecture-performance-and-games.html)  
 [Game Development : Game Design Principles](http://www.sloperama.com/advice/idea.htm)  
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
