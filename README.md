@@ -40,7 +40,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 
 # Self Promotion
-[Download My Apps On Playstore](https://play.google.com/store/apps/details?id=com.silentwolfstudios.x_blade&hl=en_US)   
+[Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
 [Download My Games On Itch.io](https://silentwolfstudios.itch.io/)   
 [Download My Games On GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [My Youtube Channel](https://bit.ly/nwymof)  
