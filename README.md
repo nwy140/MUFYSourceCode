@@ -14,7 +14,7 @@
 [Game Design : Game Design Principles](http://www.sloperama.com/advice/specs.htm)  
 [Computer graphics: 3D Modelling/Art](https://www.bitdegree.org/course/blender-character-modeling/)    
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
-[Artwork: Vector Programmer Art](https://2dgameartguru.com/)  
+[Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos)  
 
 [Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
