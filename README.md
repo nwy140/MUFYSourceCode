@@ -46,6 +46,8 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Download My Games On GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [My Youtube Channel](https://bit.ly/nwymof)  
 
+[Check my GitLab Repos](https://gitlab.com/users/nwy140/projects)  
+
 [Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
