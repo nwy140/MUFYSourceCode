@@ -13,7 +13,7 @@
 [Game Development : Code Architecture & Design Patterns](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj) [, Design Patterns Book](http://www.gameprogrammingpatterns.com/architecture-performance-and-games.html)  
 [Game Design : Game Design Principles](http://www.sloperama.com/advice/specs.htm)  
 
-[Computer Graphics: 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/cartoon-character-modeling-in-blender/)        
+[Computer Graphics: 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos)  
 
