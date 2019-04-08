@@ -14,7 +14,7 @@
 [Game Design : Game Design Principles](http://www.sloperama.com/advice/specs.htm)  
 
 [Computer Graphics: 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
-[Computer Graphics: Voxel Art](https://www.youtube.com/watch?v=bPtw7L-lV7Y&list=PLUUPuuquh9i9rSWKAeNoDK0uIp6bDgU00)  [, Download MagicaVoxel(https://ephtracy.github.io/)  
+[Computer Graphics: Voxel Art](https://www.youtube.com/watch?v=bPtw7L-lV7Y&list=PLUUPuuquh9i9rSWKAeNoDK0uIp6bDgU00)  [, Download MagicaVoxel](https://ephtracy.github.io/)  
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE)  
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos)  
 
