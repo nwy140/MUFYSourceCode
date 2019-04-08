@@ -52,6 +52,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
+[My New Wordpress Blog](https://silentwolfstudios.wordpress.com)  
 
 [3D Art Low Poly Bad Programmer Art Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
 
