@@ -37,7 +37,7 @@
 # Game Development Opportunities
 [Itch Game Jams](https://itch.io/jams)  
 [Weekly Game Jams](http://www.weeklygamejam.com/)  
-[Ludum Dare Game Jam (Twice a Year](https://ldjam.com/)  
+[Ludum Dare Game Jam (Twice a Year)](https://ldjam.com/)  
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
 
 # Marketing
