@@ -8,7 +8,8 @@
 [Game Development: Unreal Engine Development](https://www.youtube.com/user/VirtusEdu/playlists)  
 [Game Development: Get Started with no experience](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2&t=0s)  
 [Game Development: AAA Development](http://gameschoolonline.com/)  
-[Game Development: Unity](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)   
+[Game Development: Unity C# Fundementals](https://unity3d.com/learn/tutorials/s/scripting)   
+[Game Development: Unity 2.5d Project](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)   
 [Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
@@ -33,6 +34,7 @@
 [StackOverflow](https://stackoverflow.com/tags)  
 [UnityForums](https://forum.unity.com/)  
 [UnrealForums](https://forums.unrealengine.com/)
+
 
 # Game Development Opportunities
 [Itch Game Jams](https://itch.io/jams)  
