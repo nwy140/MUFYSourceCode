@@ -27,11 +27,18 @@
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)  
 
 
+
 # Documentation Search
 [SymbolHound](http://symbolhound.com)  
 [StackOverflow](https://stackoverflow.com/tags)  
 [UnityForums](https://forum.unity.com/)  
 [UnrealForums](https://forums.unrealengine.com/)
+
+# Game Development Opportunities
+[Itch Game Jams](https://itch.io/jams)  
+[Weekly Game Jams](http://www.weeklygamejam.com/)  
+[Ludum Dare Game Jam (Twice a Year](https://ldjam.com/)  
+[Global Game Jam (Once a Year)](https://globalgamejam.org/)  
 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
