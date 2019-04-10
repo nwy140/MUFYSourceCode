@@ -9,7 +9,7 @@
 [Game Development: AAA Development](http://gameschoolonline.com/)  
 [Game Development: Get Started with no experience](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2&t=0s)  
 [Game Development: Unity C# Programming Fundementals](https://unity3d.com/learn/tutorials/s/scripting)   
-[Game Development: Unity 2.5d Sidescroller](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)   
+[Game Development: Unity 2.5D Sidescroller](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)  
 [Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
@@ -21,7 +21,7 @@
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE) [, Online PixelArt Editor](https://piskelapp.com/p/create)    
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos)  
 
-[Learn Git](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
+[Learn Git Version Control](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
 [Git GUI Client: GitKraken](https://www.gitkraken.com/)  
 
