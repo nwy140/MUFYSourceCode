@@ -39,7 +39,8 @@
 [Weekly Game Jams](http://www.weeklygamejam.com/)  
 [Ludum Dare Game Jam (Twice a Year)](https://ldjam.com/)  
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
-[Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
+[Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal) 
+Goal: "Finish a game, take it to market, and earn $1"
 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
