@@ -6,6 +6,7 @@
 [App Development: React Native Cross-Platform](https://facebook.github.io/react-native/)  
 [Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
 [Game Development: Unreal Engine Development](https://www.youtube.com/user/VirtusEdu/playlists)  
+[Game Development: Unreal Engine VR Development](https://www.youtube.com/watch?v=jVdFpuicptQ&list=PLZlv_N0_O1gY7G589Z3I5-Dz7AdFSIWaG)   
 [Game Development: AAA Development](http://gameschoolonline.com/)  
 [Game Development: Get Started with no experience](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2&t=0s)  
 [Game Development: Unity C# Programming Fundementals](https://unity3d.com/learn/tutorials/s/scripting)   
