@@ -70,7 +70,8 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
 
 [3D Art Low Poly Bad Programmer Art Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
-[My Wattpad Stuff (InProgress)](https://www.wattpad.com/user/Nwy140)  
+[My Wattpad Stuff (InProgress)](https://www.wattpad.com/user/Nwy140) 
+[Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
 
 # Development Tools
 [CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)
