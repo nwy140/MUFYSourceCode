@@ -76,6 +76,6 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
 
 # Development Tools
-[CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)
+[CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)  
 [CodeSanbox - Online VS Code Emulator](https://codesandbox.io/) 
    
