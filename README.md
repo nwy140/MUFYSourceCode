@@ -22,7 +22,8 @@
 [Computer Graphics: Voxel Art](https://www.youtube.com/watch?v=bPtw7L-lV7Y&list=PLUUPuuquh9i9rSWKAeNoDK0uIp6bDgU00)  [, Download MagicaVoxel](https://ephtracy.github.io/)  
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE) [, Online PixelArt Editor](https://piskelapp.com/p/create)    
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos)  
-[Artwork: Handrawn Art(Anime Art Style)](https://www.youtube.com/playlist?list=PLCD2CF65888663986)  
+[Artwork: Flash Animation](https://www.youtube.com/user/DrawWithJazza/playlists)  
+[Artwork: Handrawn Art(Anime Art Style)](https://www.youtube.com/playlist?list=PLCD2CF65888663986)   
 
 [Learn Git Version Control](https://www.youtube.com/watch?v=Y9XZQO1n_7c)     
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
