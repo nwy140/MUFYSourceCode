@@ -48,7 +48,9 @@
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
 Goal: "Finish a game, take it to market, and earn $1"  
-Time Limit : 48 Hours
+Time Limit : 48 Hours  
+In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agress with.  
+If you don't decide on an idea, you'll be doing nothing for the entire jam. 
 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
