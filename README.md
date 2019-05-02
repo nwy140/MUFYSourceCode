@@ -47,7 +47,7 @@
 [Ludum Dare Game Jam (Twice a Year)](https://ldjam.com/)  
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
-Goal: "Finish a game, take it to market, and earn $1"
+Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours
 
 # Marketing
