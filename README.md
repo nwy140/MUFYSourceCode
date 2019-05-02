@@ -57,7 +57,7 @@ As for the game design, think about the user experience, what kind of feeling yo
 As for the Scene/Level design, how you structure your Scene/Level determines the difficulty,uniqueness,
 Plus, we are not an AAA Game Company, we don't have that much man power to implement everything. Viability matters.  
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and some badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.  
-Written by nwy140 based on his limited game dev experience and past mistakes.  
+Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
 
 
 # Marketing
