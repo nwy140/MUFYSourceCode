@@ -70,7 +70,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=HPmD9I2b7L8&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5&t=0s)   
-
+ 
 
 # Self Promotion
 [Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
