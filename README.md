@@ -58,6 +58,7 @@ As for the Scene/Level design, how you structure your Scene/Level determines the
 Plus, we are not an AAA Game Company, we don't have that much man power to implement everything. Viability matters.    
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.   
 Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
+> As a game developer, I can't let anything stop me from doing what I want to, even exams and academics and whatever. I don't continue doing this because someone told me to, I only do this because I want to. Making a living off your passion is what truly matters. No one told me to become a game developer or an app developer, I do it because I want to. People tell me to go to college, study, do well in exams, do well in college, get a degree, but is that what I truly want? But there's good in both side of the table, so what I intend to do is to continue working on my own side projects, games and apps, that I will release to the playstore, while balancing my academic life.  I mean, why not? 
 
 
 # Marketing
@@ -70,7 +71,14 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=HPmD9I2b7L8&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5&t=0s)   
- 
+[RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
+
+> As a game developer, I can't let anything stop me from doing what I want to, even exams and academics and whatever. I don't continue doing this because someone told me to, I only do this because I want to. Making a living off your passion is what truly matters to me.  
+No one told me to become a game developer or an app developer, no one told to me to get a gamedev internship, I do it because I want to. People tell me to go to college, study, do well in exams, do well in college, get a degree all the time, but is that what I truly want?   
+But there's good in both side of the table, so the realistic option for me is to continue working on my own side projects, games and apps, that I will release to the playstore, while balancing my academic life.  I mean, why not both? 
+I was self taught before I chose to go to University for CS, but to be honest, I'm kinda worried that it will destroy my will and passion to keep working on my side projects. I mean, not everyone is like me, not everyone writes mobile apps/games for fun,  some people are 100% academic, who don't do anything beyond anything outside of the curiculum. 
+I'm not sure why some people find CS so hard? Is it because they are pure beginners without any industry experience? Is it because the school treat CS and textbook algorithms like solving maths equations rather than projects in which you create something for fun.  Maybe that's why so many real world developers drop out, because they have something else to work on. But that doesn't mean I will drop out, I think prefer to balance my situation, have something going on in your life like a part-time job or a college, while doing what I want only during a specific period like weekends or nightime... 
+
 
 # Self Promotion
 [Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
