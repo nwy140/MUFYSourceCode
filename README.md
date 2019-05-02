@@ -56,7 +56,7 @@ Making an object move on the screen only takes one line of code these days. Code
 As for the game design, think about the user experience, what kind of feeling you want to invoke to your player. Don't just dump too much mechanics into your game like a feature creep, please limit your mechanics and features so that the player get to experience the parts that are actually unique, important and fun that only comes up in your game. Think of it as if it is some sort of combination/recipe that invokes different thoughts, feelings and experience, much like a drug would.   
 Plus, we are not an AAA Game Company, we don't have that much man power.  
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and some badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.
-Written by nwy140 based on his limited game dev experience.
+Written by nwy140 based on his limited game dev experience and past mistakes.
 
 
 # Marketing
