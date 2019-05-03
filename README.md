@@ -91,7 +91,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 # Development Tools
 [CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)  
-[CodeSanbox - Online VS Code Emulator](https://codesandbox.io/) 
+[CodeSanbox - Online VS Code Like Sandbox](https://codesandbox.io/) 
 
 
 
