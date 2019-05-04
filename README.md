@@ -98,7 +98,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 
 <strike>
-> As a game developer, I can't let anything stop me from doing what I/ want to, even exams and academics and whatever. I don't continue doing this because someone told me to, I only do this because I want to. Making a living off your passion is what truly matters to me.  
+> As a game developer, I can't let anything stop me from doing what I want, even exams and academics and whatever. I don't continue doing this because someone told me to, I only do this because I want to. Making a living off your passion is what truly matters to me.  
 No one told me to become a game developer or an app developer, no one told to me to get a gamedev internship, I do it because I want to. People tell me to go to college, study, do well in exams, do well in college, get a degree all the time, but is that what I truly want? 
 But there's good in both side of the table, so the realistic option for me is to continue working on my own side projects, games and apps, that I will release to the playstore, while balancing my academic life.  I mean, why not both? 
 I was self taught before I chose to go to University for CS, but to be honest, I'm kinda worried that it will destroy my will and passion to keep working on my side projects. I mean, not everyone is like me, not everyone writes mobile apps/games for fun,  some people are 100% academic, who don't do anything beyond anything outside of the curiculum. 
