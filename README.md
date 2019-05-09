@@ -38,8 +38,8 @@
 [SymbolHound](http://symbolhound.com)  
 [StackOverflow](https://stackoverflow.com/tags)  
 [UnityForums](https://forum.unity.com/)  
-[UnrealForums](https://forums.unrealengine.com/)
-[Project Management Tools)[https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/]   
+[UnrealForums](https://forums.unrealengine.com/)  
+[Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 
 # Game Development Opportunities
 [Itch Game Jams](https://itch.io/jams)  
