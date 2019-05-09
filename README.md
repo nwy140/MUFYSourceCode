@@ -96,6 +96,10 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 
 
+
+<details><summary>Developer Pledge</summary>
+<p>
+
 > <strike> As a game developer, I can't let anything stop me from doing what I want, even exams and academics and whatever. I don't continue doing this because someone told me to, I only do this because I want to. Making a living off your passion is what truly matters to me.  
 No one told me to become a game developer or an app developer, no one told to me to get a gamedev internship, I do it because I want to. People tell me to go to college, study, do well in exams, do well in college, get a degree all the time, but is that what I truly want? 
 But there's good in both side of the table, so the realistic option for me is to continue working on my own side projects, games and apps, that I will release to the playstore, while balancing my academic life.  I mean, why not both? 
@@ -108,3 +112,6 @@ As a game developer, the more games you make, the more you learn, even if you ne
 The more you fail, the more you learn. And eventually, you'll get the hang of it, you'll discard the bad practices that have been implanted into your mind and start adopting a better workflow, and eventually, getting a project to a production ready level and taking it to the market is a norm to you.  
 Written before joining the UofU 
 </strike>
+
+</p>
+</details>
