@@ -45,7 +45,7 @@
 [Itch Game Jams](https://itch.io/jams)  
 [Indie Game Jams](http://www.indiegamejams.com/)  
 [Weekly Game Jams](http://www.weeklygamejam.com/)  
-[One Hour Game Jams](https://onehourgamejam.com/)  **There's no excuse to skip this jam, because it's too short**
+[One Hour Game Jams](https://onehourgamejam.com/)  **There's no excuse to skip this jam, because it's too short**  
 [Ludum Dare Game Jam (Twice a Year)](https://ldjam.com/)  
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
