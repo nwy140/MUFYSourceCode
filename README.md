@@ -54,7 +54,7 @@ Time Limit : 48 Hours
 
 
 <details><summary>GameJam Advice</summary>
-<p>
+
 > In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with.  
 If you don't decide on an idea, you'll be doing nothing for the entire jam. 
 People usually spend most of their time in a gamejam creating the art assets and setting up their prefabs and characters, followed by designing the scenes,levels and UI. Programming is the fastest and the easiest part of a gamejam. Unless your project scope is too large.       
@@ -67,7 +67,7 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 
 </strike>
 
-</p>
+
 </details>  
 
 # Marketing
