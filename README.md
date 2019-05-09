@@ -51,7 +51,7 @@ Goal: "Finish a game, take it to market, and earn $1"
 Time Limit : 48 Hours  
 
 
-<details><summary>Developer Pledge</summary>
+<details><summary>GameJam Advice</summary>
 <p>
 > In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with.  
 If you don't decide on an idea, you'll be doing nothing for the entire jam. 
