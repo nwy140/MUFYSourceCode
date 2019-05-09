@@ -1,4 +1,4 @@
-This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md). ~~but i will still promote myself anyway~~
+This markdown written text file is a place dedicated purely to listing Academic Resources, nothing related to [tech, Click here to get back to techaccess](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md). ~~but i will still promote myself anyway~~
 
 
 # Math  
