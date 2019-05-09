@@ -49,6 +49,10 @@
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
 Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours  
+
+
+<details><summary>Developer Pledge</summary>
+<p>
 > In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with.  
 If you don't decide on an idea, you'll be doing nothing for the entire jam. 
 People usually spend most of their time in a gamejam creating the art assets and setting up their prefabs and characters, followed by designing the scenes,levels and UI. Programming is the fastest and the easiest part of a gamejam. Unless your project scope is too large.       
@@ -59,6 +63,10 @@ Plus, we are not an AAA Game Company, we don't have that much man power to imple
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.   
 Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
 
+</strike>
+
+</p>
+</details>
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
