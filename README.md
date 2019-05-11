@@ -88,7 +88,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
 [Download My Games On Itch.io](https://silentwolfstudios.itch.io/)   
 [Download My Games On GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
-[My Youtube Channel](https://www.youtube.com/watch?v=ZzNhnY8gVZs&list=PL7K_cQ2aVeqmO1Q24ZXGs59B-EzJ7HCXz&index=2&t=0s)  
+[My Youtube Channel And My Own Indie Game Trailers](https://www.youtube.com/watch?v=ZzNhnY8gVZs&list=PL7K_cQ2aVeqmO1Q24ZXGs59B-EzJ7HCXz&index=2&t=0s)  
 
 [Check my GitLab Repos](https://gitlab.com/users/nwy140/projects)  
 
