@@ -82,6 +82,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)[,Alternative 1 ](https://www.coursicle.com/utah/courses/EAE/)[, Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?bc=true&bcCurrent=General%20Education%20Program&bcItemType=programs)    
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [Register for Classes, send to cart to register](https://utah.collegescheduler.com)    
+[Utah Map](http://map.utah.edu)  
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=HPmD9I2b7L8&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5&t=0s)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
 
