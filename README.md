@@ -83,7 +83,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [Register for Classes, send to cart to register](https://utah.collegescheduler.com)    
 [Utah Map](http://map.utah.edu)[, Campus Bus Tracker](https://www.uofubus.com/)    
-[Realistic Programmer Playlist](https://www.youtube.com/watch?v=HPmD9I2b7L8&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5&t=0s)   
+[Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
 
 # Self Promotion
