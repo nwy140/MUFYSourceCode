@@ -126,6 +126,9 @@ As a game developer, the more games you make, the more you learn, even if you ne
 The more you fail, the more you learn. And eventually, you'll get the hang of it, you'll discard the bad practices that have been implanted into your mind and start adopting a better workflow, and eventually, getting a project to a production ready level and taking it to the market is a norm to you.  
 Written before joining the UofU 
 </strike>
+One thing I noticed when I started my freshman year, 
+is that, CS students are more focused on taking classes to fill up their credit hours and getting good grades, instead of working on their own projects.
+Whereas self taught devs are more realistic, and they're aways thinking of a new project to work on that they will dedicate their spare time to develop, and learning something new on their own (e.g a framework, marketing, graphic design).
 
 </p>
 </details>
