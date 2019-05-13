@@ -1,6 +1,18 @@
 # Contents
-- [Stuff you should learn](#Stuff-you-should-learn)
-- 
+- [Stuff you should learn](#Stuff-you-should-learn)  
+- [Documentation Search](#Documentation Search)  
+- [Game Development Opportunities](#Game-Development-Opportunities)  
+- [Marketing](#Marketing)  
+- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))  
+  - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
+  - [Gen Ed](#Gen-Ed)
+  - [Class Registration](#Class-Registration)  
+  - [Utah Online Services](#Utah-Online-Services)  
+- [Extras](#Extras)
+- [Self Promotion](#Self-Promotion]
+  
+
+
 
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://www.freecodecamp.org/)  
@@ -100,7 +112,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
 
-## Extras
+# Extras
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
 
 
