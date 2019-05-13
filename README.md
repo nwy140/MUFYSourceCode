@@ -9,7 +9,7 @@
   - [Class Registration](#Class-Registration)  
   - [Utah Online Services](#Utah-Online-Services)  
 - [Extras](#Extras)
-- [Self Promotion](#Self-Promotion]
+- [Self Promotion](#Self-Promotion)
   
 
 
