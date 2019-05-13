@@ -13,9 +13,8 @@
   - [Utah Online Services](#Utah-Online-Services)  
 - [Extras](#Extras)
 - [Self Promotion](#Self-Promotion)
-  
-
-
+<br>
+<br>
 
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://www.freecodecamp.org/)  
@@ -48,8 +47,9 @@
 [Learn SkillTree](https://coggle.it/diagram/WXMqDQs8WAABanyW/t/skill-tree-2017-7-23-10-32)     
 [Git GUI Client: GitKraken](https://www.gitkraken.com/)  
 
-[~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)  
-
+[~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)    
+<br>
+<br>
 
 # Documentation
 ## Documentation Search
@@ -62,6 +62,8 @@
 ## Writing Documentations
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
+<br>
+<br>
 
 # Creating a Computer Game
 ## Game Development Opportunities
@@ -75,10 +77,8 @@
 Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours  
 
-
 <details><summary>GameJam Advice</summary>
-
-> In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with.  
+> In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with. 
 If you don't decide on an idea, you'll be doing nothing for the entire jam. 
 People usually spend most of their time in a gamejam creating the art assets and setting up their prefabs and characters, followed by designing the scenes,levels and UI. Programming is the fastest and the easiest part of a gamejam. Unless your project scope is too large.       
 Making an object move on the screen only takes one line of code these days with so many engines and frameworks available. Code Architecture is the real problem. Good code architecture allows you to easily add extensions and new features to your game without wasting too much time modifying your old stuff. Plus, some online classes/tutorials actually teaches a lot of bad practice, so its up to you decide how you want write and organise your own code. Or you can make your own framework/library and reuse your functions from your old classes to save time instead of rewriting everything from scratch again.
@@ -87,21 +87,22 @@ As for the Scene/Level design, how you structure your Scene/Level determines the
 Plus, we are not an AAA Game Company, we don't have that much man power to implement everything. Viability matters.    
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.   
 Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
-
 </strike>
-
-
 </details>  
+<br>
+<br>
 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
+<br>
+<br>
 
 # University Of Utah  (We are one step ahead!!!)
 ## CS in Games With EAE Emphasis
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
-
+<br>
 ## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 [Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)
@@ -118,10 +119,13 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/bc=true&bcCurrent=General%20Education%20Program&bcItemType=programs)    
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
+<br>
+<br>
 
 # Extras
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
-
+<br>
+<br>
 
 # Self Promotion
 [Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
@@ -139,6 +143,8 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
 [My Wattpad Stuff (InProgress)](https://www.wattpad.com/user/Nwy140)   
 [Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
+<br>
+<br>
 
 # Development Tools
 [CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)  
