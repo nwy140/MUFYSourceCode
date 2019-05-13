@@ -168,5 +168,5 @@ Whereas self taught devs are more realistic, and they're aways thinking of a new
 </p>
 </details>
 
-Current Status: Educated Fool
+Current Status: Educated Fool  
 Previus Status: Solo Developer
