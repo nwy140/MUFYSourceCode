@@ -162,4 +162,4 @@ Whereas self taught devs are more realistic, and they're aways thinking of a new
 
 </p>
 </details>
-'+
+
