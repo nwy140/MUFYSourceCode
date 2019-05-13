@@ -2,7 +2,7 @@
 - [Stuff you should learn](#Stuff-you-should-learn)  
 - [Documentation](https://guides.github.com/features/wikis/)  
   - [Documentation Search](#Documentation-Search)  
-  - [Writing Documentations](#Writing-Documentations]  
+  - [Writing Documentations](#Writing-Documentations)
 - [Creating A Computer Game](#Creating-A-Computer-Game)
   - [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
