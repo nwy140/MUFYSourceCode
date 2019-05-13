@@ -1,6 +1,6 @@
 # Contents
 - [Stuff you should learn](#Stuff-you-should-learn)  
-- [Documentation](https://guides.github.com/features/wikis/)  
+- [Documentation](#Documentation)  
   - [Documentation Search](#Documentation-Search)  
   - [Writing Documentations](#Writing-Documentations)
 - [Creating A Computer Game](#Creating-A-Computer-Game)
