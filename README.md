@@ -1,7 +1,10 @@
 # Contents
 - [Stuff you should learn](#Stuff-you-should-learn)  
-- [Documentation Search](#Documentation-Search)  
-- [Game Development Opportunities](#Game-Development-Opportunities)  
+- [Documentation](https://guides.github.com/features/wikis/)  
+  - [Documentation Search](#Documentation-Search)  
+  - [Writing Documentations](#Writing-Documentations]  
+- [Creating A Computer Game](#Creating-A-Computer-Game)
+  - [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))  
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
@@ -48,19 +51,20 @@
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)  
 
 
-
-# Documentation Search
+# Documentation
+## Documentation Search
 [My Developer StartPage (Created in ReactJS)](https://3x3plwp9oq.codesandbox.io/)  
 [SymbolHound](http://symbolhound.com)  
 [StackOverflow](https://stackoverflow.com/tags)  
 [UnityForums](https://forum.unity.com/)  
 [UnrealForums](https://forums.unrealengine.com/) 
 
-# Writing Documentations
+## Writing Documentations
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 
-# Game Development Opportunities
+# Creating a Computer Game
+## Game Development Opportunities
 [Itch Game Jams](https://itch.io/jams)  
 [Indie Game Jams](http://www.indiegamejams.com/)  
 [Weekly Game Jams](http://www.weeklygamejam.com/)  
