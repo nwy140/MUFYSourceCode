@@ -1,6 +1,6 @@
 # Contents
 - [Stuff you should learn](#Stuff-you-should-learn)  
-- [Documentation Search](#Documentation Search)  
+- [Documentation Search](#Documentation-Search)  
 - [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))  
