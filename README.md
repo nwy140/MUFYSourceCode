@@ -75,16 +75,30 @@ GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
 
 # University Of Utah  (We are one step ahead!!!)
+## CS in Games With EAE Emphasis
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
+
+## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
+[Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)
+
+## Utah Online Services
 [Utah Student Portal](http://cis.utah.edu)  
-[Courses/Class Schedules](https://www.utah.edu/students/catalog.php)[,Alternative 1 ](https://www.coursicle.com/utah/courses/EAE/)[, Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?bc=true&bcCurrent=General%20Education%20Program&bcItemType=programs)    
-[Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
+[Utah Mail](https://umail.utah.edu)  
+[Campus Bus Tracker](https://www.uofubus.com/)    
+[Utah Map](http://map.utah.edu)  
+
+## Class Registration
+[Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
 [Register for Classes, send to cart to register](https://utah.collegescheduler.com)    
-[Utah Map](http://map.utah.edu)[, Campus Bus Tracker](https://www.uofubus.com/)    
-[Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
+[Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/bc=true&bcCurrent=General%20Education%20Program&bcItemType=programs)    
+[Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
+
+## Extras
+[Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
+
 
 # Self Promotion
 [Download My Apps On Playstore](https://play.google.com/store/apps/dev?id=6039327502740958485&hl=en_US)   
