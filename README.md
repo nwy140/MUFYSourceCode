@@ -87,7 +87,6 @@ As for the game art, think about people's first impression of the game on their 
 Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
 </strike>
 </details>  
-<br>
 
 ## Game Design
 [Good Game Design Documentation References: Amnesia,FallOut](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
