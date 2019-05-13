@@ -1,7 +1,7 @@
 # Contents
 - [Stuff you should learn](#Stuff-you-should-learn)  
 - [Documentation Search](#Documentation-Search)  
-- [Game Jams Challenges](#Game-Jam-Challenges)  
+- [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))  
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
@@ -57,7 +57,7 @@
 [UnrealForums](https://forums.unrealengine.com/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 
-# Game Jams Challenges
+# Game Development Opportunities
 [Itch Game Jams](https://itch.io/jams)  
 [Indie Game Jams](http://www.indiegamejams.com/)  
 [Weekly Game Jams](http://www.weeklygamejam.com/)  
@@ -162,3 +162,4 @@ Whereas self taught devs are more realistic, and they're aways thinking of a new
 
 </p>
 </details>
+'+
