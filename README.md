@@ -14,7 +14,6 @@
 - [Extras](#Extras)
 - [Self Promotion](#Self-Promotion)
 <br>
-<br>
 
 # Stuff you should learn
 [Web Development Html,Css,Javascript](https://www.freecodecamp.org/)  
@@ -49,7 +48,6 @@
 
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)    
 <br>
-<br>
 
 # Documentation
 ## Documentation Search
@@ -62,7 +60,6 @@
 ## Writing Documentations
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
-<br>
 <br>
 
 # Creating a Computer Game
@@ -90,12 +87,10 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 </strike>
 </details>  
 <br>
-<br>
 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
-<br>
 <br>
 
 # University Of Utah  (We are one step ahead!!!)
@@ -120,11 +115,9 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
 <br>
-<br>
 
 # Extras
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
-<br>
 <br>
 
 # Self Promotion
@@ -143,7 +136,6 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
 [My Wattpad Stuff (InProgress)](https://www.wattpad.com/user/Nwy140)   
 [Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
-<br>
 <br>
 
 # Development Tools
