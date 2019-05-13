@@ -60,6 +60,7 @@
 ## Writing Documentations
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
+> Writing documentation will keep your project in scope, and minimise feature creeps
 <br>
 
 # Creating a Computer Game
