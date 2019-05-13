@@ -114,7 +114,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 ## Class Registration
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
 [Register for Classes, send to cart to register](https://utah.collegescheduler.com)    
-[Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/bc=true&bcCurrent=General%20Education%20Program&bcItemType=programs)    
+[Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/)     
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
 <br>
