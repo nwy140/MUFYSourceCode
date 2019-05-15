@@ -48,6 +48,7 @@
 
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)    
 <br>
+> Real Programmers write their own software and do their own self-learning to adapt to any new trends in the tech industry. Those who don't are just code monkeys.
 
 # Documentation
 ## Documentation Search
