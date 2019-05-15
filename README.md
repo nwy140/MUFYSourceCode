@@ -117,8 +117,11 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/)     
 [Course Syllabus Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
 [RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
-[UofUSubreddit](https://www.reddit.com/r/uofu/)  
 <br>
+
+## Communications and Networking
+[College Clubs](https://leadership.utah.edu/find-an-org.php)
+[UofUSubreddit](https://www.reddit.com/r/uofu/)  
 
 
 # Extras
