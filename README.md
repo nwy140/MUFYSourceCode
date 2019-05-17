@@ -104,7 +104,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 <br>
 ## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
-[Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)
+[Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)  
 [Class Canvas Mobile App](https://play.google.com/store/apps/details?id=com.instructure.candroid&hl=en_US)[, Web Version](https://utah.instructure.com)  
 
 ## Utah Online Services
