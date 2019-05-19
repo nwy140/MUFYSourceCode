@@ -125,6 +125,12 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [College Clubs](https://leadership.utah.edu/find-an-org.php)
 [UofUSubreddit](https://www.reddit.com/r/uofu/)  
 
+## Tech
+[Remote Software](http://www.lib.utah.edu/services/labs/software.php)  
+
+## Hackerspaces
+
+
 
 # Extras
 [Realistic Programmer Playlist](https://www.youtube.com/watch?v=JjKXLce8Lxo&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=5)   
