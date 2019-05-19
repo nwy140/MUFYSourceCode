@@ -11,7 +11,7 @@
   - [Gen Ed](#Gen-Ed)
   - [Class Registration](#Class-Registration)  
   - [Utah Online Services](#Utah-Online-Services)  
-  - [Tech Services](Tech-Services)
+  - [Tech Services](#Tech-Services)
   - [Hackerspaces](#Hackerspaces)
 - [Extras](#Extras)
 - [Self Promotion](#Self-Promotion)
