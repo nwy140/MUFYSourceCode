@@ -186,10 +186,13 @@ One thing I noticed when I started my freshman year,
 is that, CS students are more focused on taking classes to fill up their credit hours and getting good grades, instead of working on their own projects.
 Whereas self taught devs are more realistic, and they're aways thinking of a new project to work on that they will dedicate their spare time to develop, and learning something new on their own (e.g a framework, marketing, graphic design).
 
-One thing I find that people who goes to school are very academic.
+One thing I find is that people who goes to school are very academic.
 They feel that they must finish all their academic assignments, gen eds requirements and a bunch of other FILLER classes and assignments and chores BEFORE they can start doing what they want.
 Self Taught people ignore all those FILLER and start doing and making what they want right away.
-E.g Writing an app, College students will put all their minds into their assignments will take it to "A good enough for that grade" level that usually will be thrown away into the trash can after it has been submitted and graded, whereas Self taught developers will take it to a production ready to be shipped level and publish it and put it out into the market.
+E.g Writing an app, College students will put all their minds into their assignments will take it to "A good enough for that grade" level that usually will be thrown away into the trash can after it has been submitted and graded, whereas Self taught developers will take it to a production ready to be shipped level and publish it and put it out into the market as they are being realistic and they are actually trying to make a living from doing what they actually want to do.
+
+Do you love to fancy over your grades? or your certifications? Degrees or whatever.
+I think that is what make a student's resume and portfolio so weak. If they don't have anything else to show other than the fact that they are currently a student or a college graduate. Those who doesn't work on their own personal project and put it out there in the market are the ones with the weakest portfolios and the weakest resume. 
 
 </p>
 </details>
