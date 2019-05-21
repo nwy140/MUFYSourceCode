@@ -192,7 +192,13 @@ Self Taught people ignore all those FILLER and start doing and making what they 
 E.g Writing an app, College students will put all their minds into their assignments will take it to "A good enough for that grade" level that usually will be thrown away into the trash can after it has been submitted and graded, whereas Self taught developers will take it to a production ready to be shipped level and publish it and put it out into the market as they are being realistic and they are actually trying to make a living from doing what they actually want to do.
 
 Do you love to fancy over your grades? or your certifications? Degrees or whatever.
-I think that is what make a student's resume and portfolio so weak. If they don't have anything else to show other than the fact that they are currently a student or a college graduate. Those who doesn't work on their own personal project and put it out there in the market are the ones with the weakest portfolios and the weakest resume. 
+I think that is what make a student's resume and portfolio so weak. If they don't have anything else to show other than the fact that they are currently a student or a college graduate, then they are really nothing special. Those who doesn't work on their own personal project and put it out there in the market are the ones with the weakest portfolios and the weakest resume. 
+
+I stay awake up late at night to work on what I really want to do, even if I am tired.
+
+While those who are very academic, will keep dreaming about college assignments and grades, and lie on their beds and look at their phones all the way until they sleep right away after they finished their classes and returned home. 
+
+
 
 </p>
 </details>
