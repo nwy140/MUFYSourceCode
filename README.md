@@ -151,6 +151,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
+[My Pininterest Artist Board](
 
 [3D Art Low Poly Bad Programmer Art Sketchfab Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
@@ -184,6 +185,11 @@ Written before joining the UofU
 One thing I noticed when I started my freshman year, 
 is that, CS students are more focused on taking classes to fill up their credit hours and getting good grades, instead of working on their own projects.
 Whereas self taught devs are more realistic, and they're aways thinking of a new project to work on that they will dedicate their spare time to develop, and learning something new on their own (e.g a framework, marketing, graphic design).
+
+One thing I find that people who goes to school are very academic.
+They feel that they must finish all their academic assignments, gen eds requirements and a bunch of other FILLER classes and assignments and chores BEFORE they can start doing what they want.
+Self Taught people ignore all those FILLER and start doing and making what they want right away.
+E.g Writing an app, College students will put all their minds into their assignments will take it to "A good enough for that grade" level that usually will be thrown away into the trash can after it has been submitted and graded, whereas Self taught developers will take it to a production ready to be shipped level and publish it and put it out into the market.
 
 </p>
 </details>
