@@ -163,7 +163,9 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [CS50 Online IDE](https://ide.cs50.io/nwy140/devnwy)  
 [CodeSanbox - Online VS Code Like Sandbox](https://codesandbox.io/) 
 
-
+# Salt Lake City Development Communities
+[IGDA SLC](https://www.facebook.com/IGDASLC)  
+[GameCraft](https://www.facebook.com/gamecraftUofU/)  
 
 
 
