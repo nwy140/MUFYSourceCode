@@ -139,13 +139,13 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Union Computer Labs](https://goo.gl/maps/32aVrQMPhw3Qkyzo9)  
 [Hidden Campus Computer Lab](https://Iwon'tleakmylocationtoyou)
 
-## Salt Lake City Development Communities
-# Groups
+# Salt Lake City Development Communities
+## Groups
 [IGDA SLC](https://www.facebook.com/IGDASLC)  
 [GameCraft](https://www.facebook.com/gamecraftUofU/)  
 [Utah Games Guild](http://utahgamesguild.com/)  
 
-# Events & Meetups
+## Events & Meetups
 [Meetup.com SLC](https://www.meetup.com/find/events/?allMeetups=true&radius=25&userFreeform=84112&gcResults=Salt+Lake+City%2C+UT+84112%2C+USA%3AUS%3AUtah%3ASalt+Lake+County%3ASalt+Lake+City%3Anull%3A84112%3A40.7652201%3A-111.84195360000001&change=yes)  
 
 
