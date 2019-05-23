@@ -167,7 +167,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
-[My Pininterest Artist Board](https://www.pinterest.com/madeofnothing/)  
+[My Pininterest Reference Board](https://www.pinterest.com/madeofnothing/)  
 
 [3D Art Low Poly Bad Programmer Art Sketchfab Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
