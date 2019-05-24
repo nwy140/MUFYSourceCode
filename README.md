@@ -18,6 +18,7 @@
   - [Events & Meetups](#Events-&-Meetups)  
 - [Extras](#Extras)
 - [Self Promotion](#Self-Promotion)
+- [Development Tools](#Development-Tools)
 <br>
 
 # Stuff you should learn
