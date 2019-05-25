@@ -6,7 +6,7 @@
 - [Creating A Computer Game](#Creating-A-Computer-Game)
   - [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
-- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah-(We-are-one-step-ahead!!!))   
+- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah)   
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
   - [Gen Ed](#Gen-Ed)
   - [Class Registration](#Class-Registration)  
@@ -106,7 +106,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw)  
 <br>
 
-# University Of Utah (We are one step ahead!!!)
+# University Of Utah
 ## CS in Games With EAE Emphasis
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
