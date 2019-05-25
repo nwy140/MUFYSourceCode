@@ -6,7 +6,7 @@
 - [Creating A Computer Game](#Creating-A-Computer-Game)
   - [Game Development Opportunities](#Game-Development-Opportunities)  
 - [Marketing](#Marketing)  
-- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))  
+- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah--(We-are-one-step-ahead!!!))   
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
   - [Gen Ed](#Gen-Ed)
   - [Class Registration](#Class-Registration)  
