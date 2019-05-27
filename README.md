@@ -27,7 +27,7 @@
 [App Development: Android](https://www.udemy.com/become-an-android-developer-from-scratch/)  [,  Alternative Tutorial 1](https://www.youtube.com/playlist?list=PLY4yL8CZKCYzN1VoGU-HUCWz-IW6xJJwF)    
 [App Development: IOS](https://www.udemy.com/the-complete-ios-10-developer-course/)   
 [App Development: React Native Cross-Platform](https://facebook.github.io/react-native/)  
-[Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share)  
+[Game Development: Unreal Engine Map Design](https://www.youtube.com/watch?v=a0qNO6_xPx0&feature=share) ,[MapDesign Timelapse](https://www.youtube.com/playlist?list=PL0V20NNVMGASDfwpVwoCbKf_KKsmt2zi9)  
 [Game Development: Unreal Engine Development](https://www.youtube.com/user/VirtusEdu/playlists)  
 [Game Development: Unreal Engine VR Development](https://www.youtube.com/watch?v=jVdFpuicptQ&list=PLZlv_N0_O1gY7G589Z3I5-Dz7AdFSIWaG)   
 [Game Development: AAA Development](http://gameschoolonline.com/)  
