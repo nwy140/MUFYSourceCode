@@ -54,7 +54,7 @@
 [Git GUI Client: GitKraken](https://www.gitkraken.com/)  
 
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)    
-[Lydna (Free for Utah Students)](https://www.lynda.com/Game-Development-training-tutorials/1679-0.html)  
+[Lydna (Free for Utah SLCPL Card Holders)](https://www.lynda.com/Game-Development-training-tutorials/1679-0.html) [, register for a card here](https://goo.gl/maps/UVZGBMdHKQUqhHQT7)  
 <br>
 > Real Programmers write their own software and do their own self-learning on their own to progress and adapt to any new trends in the tech industry. Those who don't are just code monkeys.
 
