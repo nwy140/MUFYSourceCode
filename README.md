@@ -136,6 +136,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 ## Tech Services
 [Remote Software](http://www.lib.utah.edu/services/labs/software.php)  
+[Safari Books Online (Free forr Utah Students)](https://na02.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=12486740300002001&institutionId=2001&customerId=2000)  
 
 ## Hackerspaces
 [Marriot Library](https://goo.gl/maps/JkQHSNnRJ6XJGEfa9)  
