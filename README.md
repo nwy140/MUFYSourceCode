@@ -13,7 +13,7 @@
   - [Utah Online Services](#Utah-Online-Services)  
   - [Tech Services](#Tech-Services)
   - [Hackerspaces](#Hackerspaces)
-- [Salt Lake City Development Communities-&-Networking](#Salt-Lake-City-Development-Communities)
+- [Salt Lake City Development Communities & Networking](#Salt-Lake-City-Development-Communities-&-Networking)
   - [Groups](#Groups)  
   - [Events & Meetups](#Events-&-Meetups)  
 - [Extras](#Extras)
