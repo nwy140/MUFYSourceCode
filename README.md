@@ -221,5 +221,6 @@ While those who are very academic, will keep dreaming about college assignments 
 </p>
 </details>
 
-Current Status: Educated Fool  
+Current Status: Real World Developer
+Previous Status: Educated Fool 
 Previus Status: Solo Developer
