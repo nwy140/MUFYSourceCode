@@ -223,6 +223,7 @@ While those who are very academic, will keep dreaming about college assignments 
 </p>
 </details>
 
-Current Status: Real World Developer
+Current Status: Real World Developer  
 Previous Status: Educated Fool 
-Previus Status: Solo Developer
+Previus Status: Solo Developer  
+Prvius Status: Experienced Code Monkey  
