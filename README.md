@@ -145,7 +145,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 # Salt Lake City Development Communities & Networking
 ## Groups
-[Meetup.com ReactNativeUtah](https://www.meetup.com/React-Native-Utah/)  [,Slack Group](http://tiny.cc/watf5y)  
+[Meetup.com ReactNativeUtah](https://www.meetup.com/React-Native-Utah/)  [,Slack Group](https://tiny.cc/watf7y)  
 [Meetup.com ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)   [,Slack Group](https://slack.utahjs.com/)  
 [IGDA SLC](https://www.facebook.com/IGDASLC)   
 [GameCraft](https://www.facebook.com/gamecraftUofU/)   
