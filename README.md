@@ -43,7 +43,7 @@
 [Game Design : MitX Intro to GameDesign](https://courses.edx.org/courses/course-v1:MITx+11.126x_2+1T2016/course/)  
 [Game Design : Game Design Principles](http://www.sloperama.com/advice/specs.htm)  
 [Game Design : Game Design Documentation References](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
-[Game Industry Analysis](https://www.youtube.com/user/ExtraCreditz/playlists)  
+[Game Industry Analysis](https://www.youtube.com/user/ExtraCreditz/playlists), [2](https://www.youtube.com/channel/UCLWh30LMdJZam_4SKWuq0dA/playlists)  
 
 [Computer Graphics: Blender 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
 [Computer Graphics: Blender 3D Prop Modelling Long Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists)  
