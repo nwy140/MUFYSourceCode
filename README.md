@@ -38,6 +38,7 @@
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
 [Game Development : Code Architecture & Design Patterns](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj) [, Design Patterns Book](http://www.gameprogrammingpatterns.com/contents.html)[ HardCopy](https://amzn.to/2Kp6Wap)     
+[Game Design : MitX Intro to GameDesign](https://courses.edx.org/courses/course-v1:MITx+11.126x_2+1T2016/course/)  
 [Game Design : Game Design Principles](http://www.sloperama.com/advice/specs.htm)  
 [Game Design : Game Design Documentation References](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
 [Computer Graphics: Blender 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
