@@ -32,6 +32,7 @@
 [Game Development: Unreal Engine VR Development](https://www.youtube.com/watch?v=jVdFpuicptQ&list=PLZlv_N0_O1gY7G589Z3I5-Dz7AdFSIWaG)   
 [Game Development: AAA Development](http://gameschoolonline.com/)  
 [Game Development: Get Started with no experience](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=2&t=0s)  
+[Game Development: Harvard Intro to GameDev](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/#block-v1:HarvardX+CS50G+Games+type@chapter+block@67588b76ec534f7da0fa917fac4350b8)  
 [Game Development: Unity C# Programming Fundementals](https://unity3d.com/learn/tutorials/s/scripting)   
 [Game Development: Unity 2.5D Sidescroller](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)  
 [Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
