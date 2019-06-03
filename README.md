@@ -76,7 +76,7 @@
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 [Boostnote - Notetaking app for programmers](https://boostnote.io/#community)    
-[Dropbox Papepr](https://paper.dropbox.com/)  
+[Dropbox Paper](https://paper.dropbox.com/)  
 > Writing documentation will keep your project in scope, and minimise feature creeps. Only real devs write documentation and manuals for their team and their users to keep the project going. 
 <br>
 
