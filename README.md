@@ -15,7 +15,7 @@
   - [Hackerspaces](#Hackerspaces)
 - [Salt Lake City Development Communities & Networking](#Salt-Lake-City-Development-Communities-&-Networking)
   - [Groups](#Groups)  
-  - [Events & Meetups](#Events-&-Meetups)  
+  - [Events and Meetups](#Events-and-Meetups)  
 - [Extras](#Extras)
 - [Self Promotion](#Self-Promotion)
 - [Development Tools](#Development-Tools)
@@ -160,7 +160,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [GameCraft](https://www.facebook.com/gamecraftUofU/)   
 [Utah Games Guild](http://utahgamesguild.com/)   
 
-## Events & Meetups
+## Events and Meetups
 [Meetup.com SLC](https://www.meetup.com/find/events/?allMeetups=true&radius=25&userFreeform=84112&gcResults=Salt+Lake+City%2C+UT+84112%2C+USA%3AUS%3AUtah%3ASalt+Lake+County%3ASalt+Lake+City%3Anull%3A84112%3A40.7652201%3A-111.84195360000001&change=yes)   
 [Salt Lake City Library Events](https://events.slcpl.org/events?r=thismonth)   
 
