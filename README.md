@@ -123,6 +123,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 <br>
 
 ## Writing Academic Papers
+[Office365](https://utah.instructure.com/courses/416558/external_tools/70549)  
 [Utah Calender DeadLines](https://utah.instructure.com/calendar)  
 [Utah Library Journals Search](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=UTAH&offset=0)  
 [Google Scholar Citation Search](https://scholar.google.com/)   
@@ -138,7 +139,6 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Utah Mail](https://umail.utah.edu)  
 [Campus Bus Tracker](https://www.uofubus.com/)    
 [Utah Map](http://map.utah.edu)  
-[Office365](https://utah.instructure.com/courses/416558/external_tools/70549)  
 
 ## Class Registration
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
