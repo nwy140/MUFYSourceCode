@@ -138,6 +138,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Utah Mail](https://umail.utah.edu)  
 [Campus Bus Tracker](https://www.uofubus.com/)    
 [Utah Map](http://map.utah.edu)  
+[OFfice365](https://utah.instructure.com/courses/416558/external_tools/70549)  
 
 ## Class Registration
 [Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
