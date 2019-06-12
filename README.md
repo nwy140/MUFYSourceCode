@@ -160,7 +160,8 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Union Computer Labs](https://goo.gl/maps/32aVrQMPhw3Qkyzo9)  
 [Hidden Campus Computer Lab](https://Iwon'tleakmylocationtoyou)
 
-# Salt Lake City Development Communities## Groups
+# Salt Lake City Development Communities  
+## Groups
 [Meetup.com ReactNativeUtah](https://www.meetup.com/React-Native-Utah/)  [,Slack Group](https://tiny.cc/watf7y)  
 [Meetup.com ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)   [,Slack Group](https://slack.utahjs.com/)  
 [IGDA SLC](https://www.facebook.com/IGDASLC)   
