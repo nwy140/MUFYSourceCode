@@ -124,6 +124,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 ## Writing Academic Papers
 [Office365](https://utah.instructure.com/courses/416558/external_tools/70549)  
+[DropboxPaper](https://paper.dropbox.com/folder/show/UtahAcademia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
 [Utah Calender DeadLines](https://utah.instructure.com/calendar)  
 [Utah Library Journals Search](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=UTAH&offset=0)  
 [Google Scholar Citation Search](https://scholar.google.com/)   
