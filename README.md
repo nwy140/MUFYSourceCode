@@ -8,7 +8,7 @@
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah)   
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
-  - [Writing Academic Papers](Writing-Academic-Papers)  
+  - [Writing Academic Papers]($Writing-Academic-Papers)  
   - [Gen Ed](#Gen-Ed)
   - [Class Registration](#Class-Registration)  
   - [Utah Online Services](#Utah-Online-Services)  
