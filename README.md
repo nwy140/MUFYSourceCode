@@ -120,6 +120,13 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
 [CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
 <br>
+
+## Writing Academic Papers
+[Utah Calender DeadLines](https://utah.instructure.com/calendar)  
+[Utah Library Journals Search](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=UTAH&offset=0)  
+[Google Scholar Citation Search](https://scholar.google.com/)   
+[Citation Machine](http://www.citationmachine.net/mla/cite-a-website)  
+
 ## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
 [Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)  
