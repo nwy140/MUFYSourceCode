@@ -126,6 +126,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Etherpad: Better than Gdocs,Onenote and all those trash notetakingapps, and works on mobile web](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md) [,Mozilla host](https://public.etherpad-mozilla.org/p/gittech)   
 [Google Suites: Docs,Drive,Slides](https://drive.google.com/drive/u/0/folders/1RQ0lr9JwPm6peRki7IBs3irbrfDkQ-WF)  
 [DropboxPaper](https://paper.dropbox.com/folder/show/UtahAcademia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
+<details> Etherpad and dropbox Paper are the only actual good documentation and writing papers software out there, the rest are just clunky and slow, including onenote,evernote,gdocs,wordonline,notion)   </details>
 [Utah Calender DeadLines](https://utah.instructure.com/calendar)  
 [Utah Library Journals Search](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=UTAH&offset=0)  
 [Academia.edu Journals Search](https://www.academia.edu/)  
