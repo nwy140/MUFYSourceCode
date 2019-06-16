@@ -123,6 +123,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 <br>
 
 ## Writing Academic Papers
+[Etherpad: Better than Gdocs,Onenote and all those trash notetakingapps](https://github.com/nwy140/MUFYSourceCode/blob/master/README.md)  
 [Google Suites: Docs,Drive,Slides](https://drive.google.com/drive/u/0/folders/1RQ0lr9JwPm6peRki7IBs3irbrfDkQ-WF)  
 [DropboxPaper](https://paper.dropbox.com/folder/show/UtahAcademia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
 [Utah Calender DeadLines](https://utah.instructure.com/calendar)  
