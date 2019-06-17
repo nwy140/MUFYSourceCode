@@ -75,6 +75,7 @@
 
 ## Writing Documentations
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)  
+[Pure Writer, The Only Mobile App that has Good Version Control, Minimalist UI, Actual Markdown Support, fast performance, whatsapp-like backing up system and Categorization System](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)   
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 [Boostnote - Notetaking app for programmers](https://boostnote.io/#community)    
 [Dropbox Paper](https://paper.dropbox.com/)  
