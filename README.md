@@ -133,7 +133,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 [Academia.edu Journals Search](https://www.academia.edu/)  
 [Google Scholar Citation Search](https://scholar.google.com/)   
 [Citation Machine](http://www.citationmachine.net/mla/cite-a-website)  
-<details> Etherpad and dropbox Paper are the only actual good documentation and writing papers software out there, the rest are just clunky and slow, including onenote,evernote,gdocs,wordonline,notion)   </details>
+<details>  It really doesn't matter what documentation software you are using, as long as it works offline, and has a fast performance and a good version control system.  </details>
 
 ## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
