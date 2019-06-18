@@ -50,7 +50,7 @@
 [Computer Graphics: Blender 3D Prop Modelling Long Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists)  
 [Computer Graphics: Maya 3D Modelling Channels](https://www.youtube.com/watch?v=ZZOd1ZaAxPs&feature=youtu.be)  
 [Computer Graphics: Voxel Art](https://www.youtube.com/watch?v=bPtw7L-lV7Y&list=PLUUPuuquh9i9rSWKAeNoDK0uIp6bDgU00)  [, Download MagicaVoxel](https://ephtracy.github.io/)  
-[Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE) [, Online PixelArt Editor](https://piskelapp.com/p/create)    
+[Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE) [, Online PixelArt Editor](https://piskelapp.com/p/create) [,2](https://www.pixilart.com/draw)     
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos), [Online Vector Art Editor](https://vectr.com/nwy140)  
 [Artwork: Flash Animation](https://www.youtube.com/user/DrawWithJazza/playlists)  
 [Artwork: Handrawn Art(Manga Art Style)](https://www.youtube.com/playlist?list=PLCD2CF65888663986)   
