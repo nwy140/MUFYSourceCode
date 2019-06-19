@@ -125,7 +125,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 ## Writing Academic Papers
 [Etherpad](https://etherpad.net/p/ecYLMeiYUj) [,Mozilla host](https://public.etherpad-mozilla.org/p/gittech)   
-[DraftIn[(https://draftin.com/) [Why use DraftIn?](http://docs.withdraft.com/)  
+[DraftIn](https://draftin.com/) [Why use DraftIn?](http://docs.withdraft.com/)  
 [DropboxPaper](https://paper.dropbox.com/folder/show/UtahAcademia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
 [Google Suites: Docs,Drive,Slides](https://drive.google.com/drive/u/0/folders/1RQ0lr9JwPm6peRki7IBs3irbrfDkQ-WF)  
 [Utah Calender DeadLines](https://utah.instructure.com/calendar)  
