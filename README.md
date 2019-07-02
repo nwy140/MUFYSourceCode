@@ -118,7 +118,7 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 # Marketing
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
-[Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw)  
+[Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
 [LiveStream From Browser](https://studio.golightstream.com) . 
 <br>
 
