@@ -209,7 +209,6 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 [3D Art Low Poly Bad Programmer Art Sketchfab Portfolio](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)   
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
-[My Wattpad Stuff (InProgress)](https://www.wattpad.com/user/Nwy140)   
 [Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
 <br>
 
