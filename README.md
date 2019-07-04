@@ -100,7 +100,7 @@
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
 Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours  
-Challenge: Do everything Alone.
+Optional Challenge: Do everything Alone
 
 <details><summary>GameJam Advice</summary>
 > In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with. 
