@@ -112,6 +112,32 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 </strike>
 </details>  
 
+## The Asset Flipper
+[BlendSwap](https://www.blendswap.com/blends/tagged/soccer)  
+[Unity AssetStore](https://assetstore.unity.com/packages/tools/level-design/picavoxel-29779)  
+[Unreal Marketplace - Monthly GiveAway[(https://www.unrealengine.com/marketplace/en-US/assets?tag=4910)  
+[Open Game Art](https://opengameart.org/)  
+
+## Development Tools that I Actually Use
+### Frameworks/Engines/Ide
+[Unity](https://unity.com/)  
+[Unreal](https://www.unrealengine.com/en-US/)  
+### 3D Art
+[MagicaVoxel](https://ephtracy.github.io/)  
+### Music
+[Beepbox](https://www.beepbox.co/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1xC5cvj60wjbiwMSP01csf6ixCmhIN00000)  
+### Documentation
+[Prose.io](https://prose.io/#nwy140)
+[Typora](https://typora.io/)  
+### Publishing Games
+[PlayStore Console](https://play.google.com/apps/publish/)  
+[GameJolt](https://gamejolt.com/@SilentWolfStudios/games)  
+[Itch.io](https://silentwolfstudios.itch.io/)  
+### Marketing
+[A Huge CrapLoad of Facebook Game Dev Groups]()
+### Monetization 
+
+
 ## Game Design
 [Good Game Design Documentation References: Amnesia,FallOut](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
 
