@@ -5,6 +5,8 @@
   - [Writing Documentations](#Writing-Documentations)
 - [Creating A Computer Game](#Creating-A-Computer-Game)
   - [Game Development Opportunities](#Game-Development-Opportunities)  
+  - [The Asset Flipper](#The-Asset-Flipper)
+  - [Development Tools that I Actually Use](#Development-Tools-that-I-Actually-Use]
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah)   
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
@@ -148,7 +150,7 @@ https://gamesounds.xyz/
 ### Publishing Games  
 [PlayStore Console](https://play.google.com/apps/publish/)   
 [GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
-[Itch.io](https://silentwolfstudios.itch.io/)   
+[Itch.io](https://silentwolfstudios.itch.io/)     
 ### Marketing  
 [A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)   
 [Posting on Forums Guide](https://gdu.io/blog/marketing/)   
