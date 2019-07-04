@@ -136,9 +136,9 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 [Itch.io](https://silentwolfstudios.itch.io/)  
 ### Marketing
 [A Huge CrapLoad of Facebook Game Dev Groups]()
-### Monetization 
-[Admob](https://admob.google.com/home/)  
-[Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little
+### Monetization - Shit no ones tells/teach you. 
+[Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month
+[Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob
 
 
 ## Game Design
@@ -282,6 +282,8 @@ I think that is what make a student's resume and portfolio so weak. If they don'
 I stay awake up late at night to work on what I really want to do, even if I am tired.
 
 While those who are very academic, will keep dreaming about college assignments and grades, they will lie on their beds and look at their phones all the way until they sleep right away after they finished their classes and returned home. 
+There are many Wannabes Programmers and Game Designers - Not Developers, in College. It's true. 
+
 </strike>
 
 
