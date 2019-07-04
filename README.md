@@ -155,6 +155,12 @@ https://gamesounds.xyz/
 [A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)   
 [Posting on Forums Guide](https://gdu.io/blog/marketing/)   
 [10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game)  
+<br>
+GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
+PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
+[Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
+[LiveStream From Browser](https://studio.golightstream.com)  
+
 ### Monetization  
 [Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
 [Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob  
@@ -178,10 +184,7 @@ https://luminositymobile.com/37-great-resources-game-developers/
 [How to Organize a GDD](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140)  
 
 # Marketing (Old)
-GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
-PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
-[Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
-[LiveStream From Browser](https://studio.golightstream.com) . 
+
 <br>
 
 # University Of Utah
