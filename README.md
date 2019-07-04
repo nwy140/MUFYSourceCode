@@ -100,6 +100,7 @@
 [Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
 Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours  
+Challenge: Do everything Alone.
 
 <details><summary>GameJam Advice</summary>
 > In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with. 
@@ -131,7 +132,6 @@ https://gamesounds.xyz/
 [VS Code](https://code.visualstudio.com/)   
 [Rider C# Ide](https://www.jetbrains.com/rider/) [,Student License](https://www.jetbrains.com/student/)   
 [Git Version Control](https://git-scm.com/downloads) [,Github](http://github.com/nwy140/)[ ,Gitlab](http://gitlab.com/nwy140)   
-
 ### 3D Art
 [MagicaVoxel](https://ephtracy.github.io/)  
 [ProBuilder Modeller - Built in Unity](https://www.youtube.com/watch?v=PUSOg5YEflM)[,Demonstration](https://www.youtube.com/watch?v=Kjqx6cKUepc) [,ProGrids Snapping](https://www.youtube.com/watch?v=UtNvtIrJcNc)   
@@ -174,6 +174,11 @@ https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-
 https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/  
 https://www.joshoneal.me/game-dev/  
 https://luminositymobile.com/37-great-resources-game-developers/  
+*GitRepos*
+https://github.com/Kavex/GameDev-Resources
+https://github.com/mbrukman/awesome-gamedev
+https://github.com/ellisonleao/magictools
+https://github.com/Calinou/awesome-gamedev
 
 
 ## Game Design
@@ -183,7 +188,6 @@ https://luminositymobile.com/37-great-resources-game-developers/
 [How to Write a GDD](https://rpgmaker.net/articles/136/)
 [How to Organize a GDD](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140)  
 
-# Marketing (Old)
 
 <br>
 
