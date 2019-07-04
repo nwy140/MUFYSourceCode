@@ -6,7 +6,7 @@
 - [Creating A Computer Game](#Creating-A-Computer-Game)
   - [Game Development Opportunities](#Game-Development-Opportunities)  
   - [The Asset Flipper](#The-Asset-Flipper)
-  - [Development Tools that I Actually Use](#Development-Tools-that-I-Actually-Use]
+  - [Development Tools that I Actually Use](#Development-Tools-that-I-Actually-Use) 
 - [Marketing](#Marketing)  
 - [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah)   
   - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
