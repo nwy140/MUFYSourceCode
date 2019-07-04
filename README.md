@@ -103,7 +103,7 @@ Time Limit : 48 Hours
 Optional Challenge: Do everything Alone
 
 <details><summary>GameJam Advice</summary>
-> In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with. 
+<p> In a gamejam, you have to quickly come up with an idea, and decide on an idea that is very clear, realistic,that everyone agrees with. 
 If you don't decide on an idea, you'll be doing nothing for the entire jam. 
 People usually spend most of their time in a gamejam creating the art assets and setting up their prefabs and characters, followed by designing the scenes,levels and UI. Programming is the fastest and the easiest part of a gamejam. Unless your project scope is too large.       
 Making an object move on the screen only takes one line of code these days with so many engines and frameworks available. Code Architecture is the real problem. Good code architecture allows you to easily add extensions and new features to your game without wasting too much time modifying your old stuff. Plus, some online classes/tutorials actually teaches a lot of bad practice, so its up to you decide how you want write and organise your own code. Or you can make your own framework/library and reuse your functions from your old classes to save time instead of rewriting everything from scratch again.
@@ -112,6 +112,7 @@ As for the Scene/Level design, how you structure your Scene/Level determines the
 Plus, we are not an AAA Game Company, we don't have that much man power to implement everything. Viability matters.    
 As for the game art, think about people's first impression of the game on their first glance of the game's trailer and gameplay, there's a reason why so many smaller scope and badly made games with cute animals get so many downloads on the playstore. Think about your art style, perhaps a consistent and unique art style within your game makes your game different from other games.   
 Written by nwy140 based on his limited self taught game dev experience and past mistakes.  
+  </p>
 </strike>
 </details>  
 
