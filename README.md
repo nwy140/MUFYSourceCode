@@ -113,20 +113,32 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 </details>  
 
 ## The Asset Flipper
+### Visual - Models & Assets
 [BlendSwap](https://www.blendswap.com/blends/tagged/soccer)  
 [Unity AssetStore](https://assetstore.unity.com/packages/tools/level-design/picavoxel-29779)  
 [Unreal Marketplace - Monthly GiveAway[(https://www.unrealengine.com/marketplace/en-US/assets?tag=4910)  
 [Open Game Art](https://opengameart.org/)  
+### Audio 
+https://freesound.org/people/nwy140/bookmarks/
+https://gamesounds.xyz/
 
 ## Development Tools that I Actually Use
 ### Frameworks/Engines/Ide
 [Unity](https://unity.com/)  
 [Unreal](https://www.unrealengine.com/en-US/)  
-
+[VS Code](https://code.visualstudio.com/)  
+[Rider C# Ide](https://www.jetbrains.com/rider/) [,Student License](https://www.jetbrains.com/student/) 
 ### 3D Art
 [MagicaVoxel](https://ephtracy.github.io/)  
-### Music
+[ProBuilder Modeller - Built in Unity](https://www.youtube.com/watch?v=PUSOg5YEflM)[,Demonstration](https://www.youtube.com/watch?v=Kjqx6cKUepc) [,ProGrids Snapping](https://www.youtube.com/watch?v=UtNvtIrJcNc)   
+### 2D Art
+[Inkscape](https://inkscape.org/) , [Adobe Illustrator Exporter](https://primandras.hu/inkscape-ai-compatible-eps-exporter/)  
+[Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)  
+[Sprite Shape Organic Levels - Built In Unity](https://www.youtube.com/watch?v=GSo_fU1JdfM)
+
+### Music DAW
 [Beepbox](https://www.beepbox.co/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1xC5cvj60wjbiwMSP01csf6ixCmhIN00000)  
+<strike>[AudioTool](https://www.audiotool.com/)</strike>
 ### Documentation
 [Prose.io](https://prose.io/#nwy140)
 [Typora](https://typora.io/)  
@@ -135,16 +147,28 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 [GameJolt](https://gamejolt.com/@SilentWolfStudios/games)  
 [Itch.io](https://silentwolfstudios.itch.io/)  
 ### Marketing
-[A Huge CrapLoad of Facebook Game Dev Groups]()
-### Monetization - Shit no ones tells/teach you. 
+[A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)  
+[Posting on Forums Guide](https://gdu.io/blog/marketing/)  
+[10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game) 
+### Monetization
 [Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month
 [Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob
+
+
+### All In One Threads/Articles
+https://www.freecodecamp.org/forum/t/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-don-t-have-any-experience/285428  
+https://dvnc.tech/2018/05/10/ultimate-guide-to-getting-started-in-game-development-with-100-resources/  
+https://www.gamedesigning.org/gaming/reddit-threads/  
+https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-you-are-a-programmer.aspx  
+https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/  
+https://www.joshoneal.me/game-dev/  
+https://luminositymobile.com/37-great-resources-game-developers/  
 
 
 ## Game Design
 [Good Game Design Documentation References: Amnesia,FallOut](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
 
-# Marketing
+# Marketing (Old)
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
 [Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
