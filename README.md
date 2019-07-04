@@ -137,6 +137,8 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 ### Marketing
 [A Huge CrapLoad of Facebook Game Dev Groups]()
 ### Monetization 
+[Admob](https://admob.google.com/home/)  
+[Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little
 
 
 ## Game Design
