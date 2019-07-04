@@ -124,35 +124,38 @@ https://gamesounds.xyz/
 
 ## Development Tools that I Actually Use
 ### Frameworks/Engines/Ide
-[Unity](https://unity.com/)  
-[Unreal](https://www.unrealengine.com/en-US/)  
-[VS Code](https://code.visualstudio.com/)  
-[Rider C# Ide](https://www.jetbrains.com/rider/) [,Student License](https://www.jetbrains.com/student/) 
+[Unity](https://unity.com/)   
+[Unreal](https://www.unrealengine.com/en-US/)   
+[VS Code](https://code.visualstudio.com/)   
+[Rider C# Ide](https://www.jetbrains.com/rider/) [,Student License](https://www.jetbrains.com/student/)   
+[Git Version Control](https://git-scm.com/downloads) [,Github](http://github.com/nwy140/)[ ,Gitlab](http://gitlab.com/nwy140)   
+
 ### 3D Art
 [MagicaVoxel](https://ephtracy.github.io/)  
 [ProBuilder Modeller - Built in Unity](https://www.youtube.com/watch?v=PUSOg5YEflM)[,Demonstration](https://www.youtube.com/watch?v=Kjqx6cKUepc) [,ProGrids Snapping](https://www.youtube.com/watch?v=UtNvtIrJcNc)   
 ### 2D Art
 [Inkscape](https://inkscape.org/) , [Adobe Illustrator Exporter](https://primandras.hu/inkscape-ai-compatible-eps-exporter/)  
-[Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)  
-[Sprite Shape Organic Levels - Built In Unity](https://www.youtube.com/watch?v=GSo_fU1JdfM)
-
+[Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)   
+[Sprite Shape Organic Levels - Built In Unity](https://www.youtube.com/watch?v=GSo_fU1JdfM)  
 ### Music DAW
-[Beepbox](https://www.beepbox.co/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1xC5cvj60wjbiwMSP01csf6ixCmhIN00000)  
-<strike>[AudioTool](https://www.audiotool.com/)</strike>
+[Beepbox](https://www.beepbox.co/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1xC5cvj60wjbiwMSP01csf6ixCmhIN00000)    
+<strike>[AudioTool](https://www.audiotool.com/)</strike>  
 ### Documentation
-[Prose.io](https://prose.io/#nwy140)
-[Typora](https://typora.io/)  
-### Publishing Games
-[PlayStore Console](https://play.google.com/apps/publish/)  
-[GameJolt](https://gamejolt.com/@SilentWolfStudios/games)  
-[Itch.io](https://silentwolfstudios.itch.io/)  
-### Marketing
-[A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)  
-[Posting on Forums Guide](https://gdu.io/blog/marketing/)  
-[10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game) 
-### Monetization
-[Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month
-[Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob
+[Prose.io](https://prose.io/#nwy140)  
+[Typora](https://typora.io/)   
+### Project Management
+[Trello](https://trello.com/nwymadeofnothing/boards)  
+### Publishing Games  
+[PlayStore Console](https://play.google.com/apps/publish/)   
+[GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
+[Itch.io](https://silentwolfstudios.itch.io/)   
+### Marketing  
+[A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)   
+[Posting on Forums Guide](https://gdu.io/blog/marketing/)   
+[10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game)  
+### Monetization  
+[Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
+[Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob  
 
 
 ### All In One Threads/Articles
@@ -167,6 +170,10 @@ https://luminositymobile.com/37-great-resources-game-developers/
 
 ## Game Design
 [Good Game Design Documentation References: Amnesia,FallOut](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
+[More GDD Ref](https://gamescrye.com/resources/game-design-documents/) [ ,2](http://mikaelsegedi.blogspot.com/2015/02/game-design-document-from-famous-games.html) [,3](https://www.resetera.com/threads/complete-game-design-documents-either-released-or-leaked-to-the-public.21417/) [,4](https://web.archive.org/web/20150825035607/http://www.gamepitches.com/game-designs/)  
+[Original GTA GDD](https://www.gamedevs.org/uploads/grand-theft-auto.pdf)  
+[How to Write a GDD](https://rpgmaker.net/articles/136/)
+[How to Organize a GDD](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140)  
 
 # Marketing (Old)
 GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
