@@ -176,6 +176,7 @@ https://www.gamefromscratch.com/post/2013/06/11/Creating-art-for-your-game-when-
 https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/  
 https://www.joshoneal.me/game-dev/  
 https://luminositymobile.com/37-great-resources-game-developers/  
+http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/
 *GitRepos*
 https://github.com/Kavex/GameDev-Resources
 https://github.com/mbrukman/awesome-gamedev
