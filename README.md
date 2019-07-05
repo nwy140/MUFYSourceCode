@@ -124,12 +124,13 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 [Open Game Art](https://opengameart.org/)  
 
 ### Visual - 3D Models
+[Google Poly](https://poly.google.com/)  
 [BlendSwap](https://www.blendswap.com/blends/tagged/soccer)  
 [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free)  
 [CgTrader](https://www.cgtrader.com/free-3d-models)  
 [Free3D](https://free3d.com/)  
 [Archive3D](https://archive3d.net/)  
-[Giant List of 3D Models sites](https://www.hongkiat.com/blog/60-excellent-free-3d-model-websites/)  
+[Giant List of 3D Models sites](https://www.hongkiat.com/blog/60-excellent-free-3d-model-websites/) ,[2](https://medium.com/@PeakselDev/premium-and-free-3d-model-websites-d27244166d64)  
 ### Visual - Textures
 http://designbeep.com/2012/04/27/50-free-high-resolution-grass-textures-for-designers/  
 https://www.pexels.com/search/texture/  
