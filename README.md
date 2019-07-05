@@ -153,6 +153,7 @@ https://gamesounds.xyz/
 ### 3D Art
 [MagicaVoxel](https://ephtracy.github.io/)  
 [ProBuilder Modeller - Built in Unity](https://www.youtube.com/watch?v=PUSOg5YEflM)[,Demonstration](https://www.youtube.com/watch?v=Kjqx6cKUepc) [,ProGrids Snapping](https://www.youtube.com/watch?v=UtNvtIrJcNc)   
+[Adobe Mixamo AutoRigger/Animator](https://www.mixamo.com/)  
 ### 2D Art
 [Inkscape](https://inkscape.org/) , [Adobe Illustrator Exporter](https://primandras.hu/inkscape-ai-compatible-eps-exporter/)  
 [Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)   
