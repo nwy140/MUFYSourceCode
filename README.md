@@ -125,11 +125,13 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 [Open Game Art](https://opengameart.org/)  
 
 ### Visual - Fonts
+https://www.dafont.com/jason-nolan.d2354
+https://www.1001fonts.com/free-fonts-for-commercial-use.html  
+https://www.hongkiat.com/blog/free-fonts-for-commercial-personal-use/  
+https://hackernoon.com/too-good-to-be-true-these-free-fonts-come-with-a-commercial-license-a4c8a2db26ad  
+https://opengameart.org/content/fonts-0
 https://dealjumbo.com/downloads/category/freebies/  
 https://www.fontsquirrel.com/  
-https://www.hongkiat.com/blog/free-fonts-for-commercial-personal-use/  
-https://www.1001fonts.com/free-fonts-for-commercial-use.html  
-https://hackernoon.com/too-good-to-be-true-these-free-fonts-come-with-a-commercial-license-a4c8a2db26ad  
 
 ### Audio 
 https://freesound.org/people/nwy140/bookmarks/
