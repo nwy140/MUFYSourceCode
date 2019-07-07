@@ -155,6 +155,8 @@ https://gamesounds.xyz/
 
 ### Plot/Scene Writing
 [Visual Novel](http://www.route59games.com/how-visual-novel-writing-is-different/) [,1](https://medium.com/mammon-machine-zeal/how-to-make-a-plan-to-write-a-visual-novel-in-a-month-so-you-can-finish-it-in-three-and-a-half-b5200f46ce1a) [,2](https://blog.cloudnovel.net/2018/05/24/how-to-plan-structure-of-your-visual-novel/) [,3](https://www.reddit.com/r/vndevs/comments/8ysyja/what_format_should_i_use_when_writing_a_visual/) ,[4](https://fuwanovel.net/2015/01/a-guide-to-making-visual-novels/)  
+[Cloud Novel - Online VN Maker And VN Game References](https://cloudnovel.net/)   
+[Fungus Unity VN Intergration](https://assetstore.unity.com/packages/templates/systems/fungus-34184)  
 
 ## Development Tools that I Actually Use
 ### Frameworks/Engines/Ide
