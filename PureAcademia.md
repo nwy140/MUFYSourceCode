@@ -2,6 +2,10 @@ This markdown written text file is a place dedicated purely to listing Academic 
 
 
 # Math  
+[Accuplace Test](https://accuplacer.collegeboard.org/student/inside-the-test) [,Arithmetic](https://www.youtube.com/playlist?list=PL3Gnjw2fQSnGYIggqyl0q6JGMksKChLlN) [,Elementary Algebra](https://www.youtube.com/playlist?list=PL3Gnjw2fQSnGlffJjnBOzNMGK39r-Yw-Q) [,College Level](https://www.youtube.com/playlist?list=PL3Gnjw2fQSnE4Pa8HRI3BvsmSx9a11rq5)  
+[Utah Math Placement Guide](http://www.math.utah.edu/_documents/undergrad/mathplacementguide.pdf) [, Test Sign Up](https://testingcenter.utah.edu/students/placement-tests/math-placement.php)  
+
+[Utah Maths Lectures Archive](http://www.math.utah.edu/lectures/)
 [Calculus 1: Khan Academy](https://www.khanacademy.org/math/calculus-1)   
 [Calculus 2: Khan Academy](https://www.khanacademy.org/math/calculus-2)  
 
@@ -9,6 +13,7 @@ This markdown written text file is a place dedicated purely to listing Academic 
 [Calculus 2: Lamar Notes](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)  
 
 [Calculus : PatrickJmt](http://patrickjmt.com/#calculus)  
+
 
 
 
