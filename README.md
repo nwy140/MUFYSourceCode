@@ -153,6 +153,9 @@ https://freesound.org/people/nwy140/bookmarks/
 https://gamesounds.xyz/  
 [Japanese Royalty Free BGM](https://dova-s.jp/bgm/play1241.html) [,Music Blends really well with the story in Towns of Tide](https://play.google.com/store/apps/details?id=com.rpgsnack.shiosai&hl=en_US)  
 
+### Plot/Scene Writing
+[Visual Novel](http://www.route59games.com/how-visual-novel-writing-is-different/) [,1](https://medium.com/mammon-machine-zeal/how-to-make-a-plan-to-write-a-visual-novel-in-a-month-so-you-can-finish-it-in-three-and-a-half-b5200f46ce1a) [,2](https://blog.cloudnovel.net/2018/05/24/how-to-plan-structure-of-your-visual-novel/) [,3](https://www.reddit.com/r/vndevs/comments/8ysyja/what_format_should_i_use_when_writing_a_visual/)   
+
 ## Development Tools that I Actually Use
 ### Frameworks/Engines/Ide
 [Unity](https://unity.com/)   
