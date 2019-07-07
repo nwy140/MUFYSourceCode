@@ -140,13 +140,13 @@ https://gametextures.com/freebies
 https://itch.io/game-assets/free/tag-texture  
 https://www.textures.com/browse/pbr-materials/114558  
 ### Visual - Fonts
-https://www.dafont.com/jason-nolan.d2354  
-https://www.1001fonts.com/free-fonts-for-commercial-use.html    
-https://www.hongkiat.com/blog/free-fonts-for-commercial-personal-use/  
-https://hackernoon.com/too-good-to-be-true-these-free-fonts-come-with-a-commercial-license-a4c8a2db26ad  
-https://opengameart.org/content/fonts-0
-https://dealjumbo.com/downloads/category/freebies/  
-https://www.fontsquirrel.com/   
+https://www.dafont.com/jason-nolan.d2354   
+https://www.1001fonts.com/free-fonts-for-commercial-use.html     
+https://www.hongkiat.com/blog/free-fonts-for-commercial-personal-use/   
+https://hackernoon.com/too-good-to-be-true-these-free-fonts-come-with-a-commercial-license-a4c8a2db26ad   
+https://opengameart.org/content/fonts-0  
+https://dealjumbo.com/downloads/category/freebies/    
+https://www.fontsquirrel.com/    
 
 ### Audio 
 https://freesound.org/people/nwy140/bookmarks/  
