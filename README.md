@@ -173,7 +173,7 @@ https://gamesounds.xyz/
 [Inkscape](https://inkscape.org/) , [Adobe Illustrator Exporter](https://primandras.hu/inkscape-ai-compatible-eps-exporter/)  
 [Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)   
 [Sprite Shape Organic Levels - Built In Unity](https://www.youtube.com/watch?v=GSo_fU1JdfM)  \
-[Live2D Anime VN Animations](https://www.youtube.com/watch?v=DWnPWygJEyM)  
+[Live2D Anime VN Animations](https://www.youtube.com/watch?v=DWnPWygJEyM&list=PLhha8OGApHGPdtbK3gmAEMyk2d2icpdtj&index=2&t=0s)  
 ### Music DAW
 [Beepbox](https://www.beepbox.co/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1xC5cvj60wjbiwMSP01csf6ixCmhIN00000)    
 <strike>[AudioTool](https://www.audiotool.com/)</strike>  
