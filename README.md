@@ -354,6 +354,12 @@ I stay awake up late at night to work on what I really want to do, even if I am 
 While those who are very academic, will keep dreaming about college assignments and grades, they will lie on their beds and look at their phones all the way until they sleep right away after they finished their classes and returned home. 
 There are many Wannabes Programmers and Game Designers - Not Developers, in College. It's true. 
 
+If you want to be a real indie developer, a some code monkey who jumps from one company to another, who keeps working in AAA companies,
+then, write your own software, make your own games. Don't expect anyone to spoon feed you with anything. 
+
+I know a lot of wannabe programmers and game developers in college, who has no real experience at all,
+who have never made a real software or a real game before. They are just expecting their college courses to spoonfeed them with everything. Wannabes are everywhere in college. When I go to developer conferences and meetups, I rarely see any wannabees, most of the people I've met are self taught real developers who have done more than any of these college wannabees.
+
 </strike>
 
 
