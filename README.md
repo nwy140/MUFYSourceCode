@@ -77,6 +77,7 @@
 [UnrealForums](https://forums.unrealengine.com/) 
 
 ## Writing Documentations
+[Unity Doxygen Integration](https://forum.unity.com/threads/free-plugin-for-automatic-documentation-of-your-project-through-doxygen.128355/?fbclid=IwAR0C0Ha-IdOj-H1k9gVOoDkfTnXlH7cfQjX4pQV9dy-cCQ7DC05FH2CdRQw) [,Example](https://raw.githack.com/nwy140/TheWYGameDevelopmentFramework/master/WyFramework/Docs/html/annotated.html?fbclid=IwAR2UiC6Srzz8sFadAtWwUbUfEzY0eAAgr62gnn3RHcaHBnFo4My0kZeOILs)  
 [Github Wikis/Readme](https://guides.github.com/features/wikis/)
 [Online Github Markdown Editor - Prose](https://prose.io/#nwy140)  
 [Online Github Markdown Editor - Stackedit](https://stackedit.io/app#providerId=githubWorkspace&owner=nwy140&repo=Markdown-Documents&branch=master)  
