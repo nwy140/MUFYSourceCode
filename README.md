@@ -221,7 +221,7 @@ https://github.com/Calinou/awesome-gamedev
 ## Game Design
 [Good Game Design Documentation References: Amnesia,FallOut](https://silentwolfstudios.wordpress.com/2019/04/19/gamereference001-gamedesigndocumentations-reference/)  
 [More GDD Ref](https://gamescrye.com/resources/game-design-documents/) [ ,2](http://mikaelsegedi.blogspot.com/2015/02/game-design-document-from-famous-games.html) [,3](https://www.resetera.com/threads/complete-game-design-documents-either-released-or-leaked-to-the-public.21417/) [,4](https://web.archive.org/web/20150825035607/http://www.gamepitches.com/game-designs/)  
-[Archived Computer Game Manuals](https://archive.org/details/gamemanuals) [PS1](https://archive.org/details/playstationmanuals)  
+[Archived Computer Game Manuals](https://archive.org/details/gamemanuals) [PS1](https://archive.org/details/playstationmanuals) [Atari](https://archive.org/details/atari8bitmanuals)   
 [Archived Game Developer Magazines](https://archive.org/details/game_developer_magazine)  
 [Original GTA GDD](https://www.gamedevs.org/uploads/grand-theft-auto.pdf)  
 [How to Write a GDD](https://rpgmaker.net/articles/136/)
