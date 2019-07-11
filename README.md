@@ -122,7 +122,8 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 ### Visual - Assets
 [Unity AssetStore](https://assetstore.unity.com/packages/tools/level-design/picavoxel-29779)  
 [Unreal Marketplace - Monthly GiveAway](https://www.unrealengine.com/marketplace/en-US/assets?tag=4910)  
-[Open Game Art](https://opengameart.org/)  
+[Open Game Art](https://opengameart.org/)   
+[Itch.io Free Assets](https://itch.io/game-assets/free)  
 
 ### Visual - 3D Models
 [Google Poly](https://poly.google.com/)  
