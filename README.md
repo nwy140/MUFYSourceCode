@@ -41,6 +41,7 @@
 [Game Development: Unity 2.5D Sidescroller](https://www.youtube.com/watch?v=RHie6Hg0mQ4&index=1&list=PL2cNFQAw_ndx1ID-DuvFoeGR_nE4jOFTq)  
 [Game Developpment: Unity LongTutorials](https://www.youtube.com/watch?v=2jK0xAm7gsM&list=PLZhNP5qJ2IA0ZKknIJG8JAEXfbA9AjQUR&index=4&t=0s)  
 [Game Development: Fungus Visual Novel Maker in Unity](https://www.youtube.com/watch?v=F1vmEtQ7k6M&list=PLiMlyObJfJmUohJ_M2pJhtrNKuNECo2Uk)  
+[Game Development: RenPy Python Visual Novel Engine](https://www.renpy.org/) [,Used to Create DokiDokiLiteratureClub](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/)  
 [Game Development: Phaser HTML+Javascript](https://phaser.io/tutorials/getting-started-facebook-instant-games)  
 [Game Development : Code Architecture & Design Patterns](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj) [, Design Patterns Book](http://www.gameprogrammingpatterns.com/contents.html)[ HardCopy](https://amzn.to/2Kp6Wap)     
 [Game Design : RitX Game Design Series](https://www.edx.org/xseries/video-game-design)  
