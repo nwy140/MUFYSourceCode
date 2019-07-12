@@ -53,6 +53,8 @@
 [Computer Graphics: Blender 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
 [Computer Graphics: Blender 3D Prop Modelling Long Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists)  
 [Computer Graphics: Maya 3D Modelling Channels](https://www.youtube.com/watch?v=ZZOd1ZaAxPs&feature=youtu.be)  
+[Computer Graphics: Maya HighRes Modelling](https://beta.gameschoolonline.com/courses/ea-101-introduction-to-modeling-with-maya)  
+[Computer Graphics: ZBrush HighRes Modelling](https://beta.gameschoolonline.com/courses/ea-102-Modeling-a-Weapon-in-Zbrush)  
 [Computer Graphics: Voxel Art](https://www.youtube.com/watch?v=bPtw7L-lV7Y&list=PLUUPuuquh9i9rSWKAeNoDK0uIp6bDgU00)  [, Download MagicaVoxel](https://ephtracy.github.io/)  
 [Artwork: Pixel Art](https://www.udemy.com/learn-professional-pixel-art-animation-for-games/?couponCode=FREECOURSE) [, Online PixelArt Editor](https://piskelapp.com/p/create) [,2](https://www.pixilart.com/draw)     
 [Artwork: Vector Art](https://www.youtube.com/channel/UCVMhFCCmrMisICIoyTIXsKw/videos), [Online Vector Art Editor](https://vectr.com/nwy140)  
