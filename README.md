@@ -380,6 +380,19 @@ then, write your own software, make your own games. Don't expect anyone to spoon
 I know a lot of wannabe programmers and game developers in college, who has no real experience at all,
 who have never made a real software or a real game before. They are just expecting their college courses to spoonfeed them with everything. Wannabes are everywhere in college. When I go to developer conferences and meetups, I rarely see any wannabees, most of the people I've met are self taught real developers who have done more than any of these college wannabees.
 
+You know, honestly,
+a lot of the shit that they teach in college,
+you could've easily learned them online on your own.
+
+I don't like college spoon-feeding, I'd rather learn new things on my own.
+I mean, there's no way college will teach updated tech and new frameworks such as Flutter or React Native...
+They'll be teaching outdated stuff such as Java and general programming languages... 
+What's the point of Java in college anyway? It's too unrealistic.
+I mean, who uses Java to make native mobile apps these days anyway? With so many cross platform frameworks available..
+I'd rather just learn flutter and react native. And make my own mobile apps on my own.
+
+
+
 </strike>
 
 
