@@ -304,6 +304,7 @@ https://github.com/Calinou/awesome-gamedev
 [Lassonde Studios Events](https://lassonde.utah.edu/calendar#/?i=6)  
 [Meetup.com SLC](https://www.meetup.com/find/events/?allMeetups=true&radius=25&userFreeform=84112&gcResults=Salt+Lake+City%2C+UT+84112%2C+USA%3AUS%3AUtah%3ASalt+Lake+County%3ASalt+Lake+City%3Anull%3A84112%3A40.7652201%3A-111.84195360000001&change=yes)   
 [Salt Lake City Library Events](https://events.slcpl.org/events?r=thismonth)   
+[UofU CIS Handshake Career Fairs/Events](https://utah.joinhandshake.com/recommendation_collections/4) Login via utah CIS  
 
 
 
