@@ -392,6 +392,10 @@ They'll be teaching outdated stuff such as Java and the general programming lang
 What's the point of learning Java in college anyway? It's too unrealistic.
 I mean, who uses Java to make native mobile apps these days anyway? With so many cross platform frameworks available..
 I'd rather just learn flutter and react native. And make my own mobile apps on my own.
+  
+I don't go to college to learn how to program, or learn some textbook algorithms, or to get a degree or something.
+
+College is just something to keep myself occupied, so that my brain won't die from doing nothing
 
 
 
