@@ -234,7 +234,8 @@ https://github.com/Calinou/awesome-gamedev
 [More GDD Ref](https://gamescrye.com/resources/game-design-documents/) [ ,2](http://mikaelsegedi.blogspot.com/2015/02/game-design-document-from-famous-games.html) [,3](https://www.resetera.com/threads/complete-game-design-documents-either-released-or-leaked-to-the-public.21417/) [,4](https://web.archive.org/web/20150825035607/http://www.gamepitches.com/game-designs/)  
 [Archived Computer Game Manuals](https://archive.org/details/gamemanuals) [PS1](https://archive.org/details/playstationmanuals) [Atari](https://archive.org/details/atari8bitmanuals)   
 [Archived Game Developer Magazines](https://archive.org/details/game_developer_magazine)  
-[Original GTA GDD](https://www.gamedevs.org/uploads/grand-theft-auto.pdf)  
+[Original GTA GDD](https://www.gamedevs.org/uploads/grand-theft-auto.pdf)
+[Saints Row Cancelled Game GDD](http://gamescrye.wpengine.com/wp-content/uploads/2016/08/SR_Undercover_GDD.pdf)  
 [How to Write a GDD](https://rpgmaker.net/articles/136/)
 [How to Organize a GDD](https://code.tutsplus.com/articles/effectively-organize-your-games-development-with-a-game-design-document--active-10140)  
 
@@ -385,10 +386,10 @@ You know, honestly,
 a lot of the shit that they teach in college,
 you could've easily learned them online on your own.
 
-I don't like college spoon-feeding, I'd rather learn new things on my own.
+I don't like  spoon-feeding, especially in college ,I'd rather learn new things on my own.
 I mean, there's no way college will teach updated tech and new frameworks such as Flutter or React Native...
-They'll be teaching outdated stuff such as Java and general programming languages... 
-What's the point of Java in college anyway? It's too unrealistic.
+They'll be teaching outdated stuff such as Java and the general programming languages... 
+What's the point of learning Java in college anyway? It's too unrealistic.
 I mean, who uses Java to make native mobile apps these days anyway? With so many cross platform frameworks available..
 I'd rather just learn flutter and react native. And make my own mobile apps on my own.
 
