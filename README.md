@@ -86,6 +86,7 @@
 [Online Github Markdown Editor - Stackedit](https://stackedit.io/app#providerId=githubWorkspace&owner=nwy140&repo=Markdown-Documents&branch=master)  
 [OffLine Windows Markdown Editor - Typora](https://typora.io/)  
 [Offline Android Git Supported Markdown Editor - spck ](https://play.google.com/store/apps/details?id=io.spck&hl=en_US), [(Web Version available)](https://spck.io/)  
+[Joplin](https://collegeinfogeek.com/best-note-taking-apps/)  //Markdown
 <strike>[Pure Writer, The Only Mobile App that has Good Version Control, Minimalist UI, Actual Markdown Support, fast performance, whatsapp-like backing up system and Categorization System](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)</strike>   
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 [Boostnote - Notetaking app for programmers](https://boostnote.io/#community)    
