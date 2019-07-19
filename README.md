@@ -137,7 +137,8 @@ Written by nwy140 based on his limited self taught game dev experience and past 
 [CgTrader](https://www.cgtrader.com/free-3d-models)  
 [Free3D](https://free3d.com/)  
 [Archive3D](https://archive3d.net/)  
-[Giant List of 3D Models sites](https://www.hongkiat.com/blog/60-excellent-free-3d-model-websites/) ,[2](https://medium.com/@PeakselDev/premium-and-free-3d-model-websites-d27244166d64) ,[3](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/)    
+[Giant List of 3D Models sites](https://www.hongkiat.com/blog/60-excellent-free-3d-model-websites/) ,[2](https://medium.com/@PeakselDev/premium-and-free-3d-model-websites-d27244166d64) ,[3](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/)  
+
 ### Visual - Textures
 http://designbeep.com/2012/04/27/50-free-high-resolution-grass-textures-for-designers/  
 https://www.pexels.com/search/texture/  
@@ -183,6 +184,14 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [MagicaVoxel](https://ephtracy.github.io/)  
 [ProBuilder Modeller - Built in Unity](https://www.youtube.com/watch?v=PUSOg5YEflM)[,Demonstration](https://www.youtube.com/watch?v=Kjqx6cKUepc) [,ProGrids Snapping](https://www.youtube.com/watch?v=UtNvtIrJcNc)   
 [Adobe Mixamo AutoRigger/Animator](https://www.mixamo.com/)  
+
+#### 3D Character Creators
+[Adobe Fuse High Res Char Creator](https://store.steampowered.com/app/257400/Fuse/)  
+[Make Human Realistic Char Creator](http://www.makehumancommunity.org/)  
+[Daz3D Char Creator](https://www.daz3d.com/)  
+[Vroid Studio Anime Char Creator](https://vroid.com/)  
+<strikethrough>[VKatsu](https://store.steampowered.com/app/856620/V__VKatsu/) </strikethrough>
+
 ### 2D Art
 [Inkscape](https://inkscape.org/) , [Adobe Illustrator Exporter](https://primandras.hu/inkscape-ai-compatible-eps-exporter/)  
 [Anime2D - Built In Unity](https://www.youtube.com/watch?v=eXIuizGzY2A)   
