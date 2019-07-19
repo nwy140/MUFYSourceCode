@@ -189,7 +189,7 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [Adobe Fuse High Res Char Creator](https://store.steampowered.com/app/257400/Fuse/)  
 [Make Human Realistic Char Creator](http://www.makehumancommunity.org/)  
 [Daz3D Char Creator](https://www.daz3d.com/)  
-[Vroid Studio Anime Char Creator](https://vroid.com/) [Mobile](https://vroid.com/mobile) [Vroid Hub](https://hub.vroid.com/users/42285192)   // Damn it, this software is so fucking awesome
+[Vroid Studio Anime Char Creator](https://vroid.com/) [,Mobile](https://vroid.com/mobile) [,Vroid Hub](https://hub.vroid.com/users/42285192)   // Damn it, this software is so fucking awesome
 <strikethrough>[VKatsu](https://store.steampowered.com/app/856620/V__VKatsu/) </strikethrough>
 
 ### 2D Art
