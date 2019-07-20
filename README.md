@@ -222,7 +222,7 @@ GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
 [Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
 [LiveStream From Browser](https://studio.golightstream.com)  
-[Record Screen Chrome Extension](chrome-extension://hniebljpgcogalllopnjokppmgbhaden/options.html)  
+[Record Screen Chrome Extension](http://chrome-extension://hniebljpgcogalllopnjokppmgbhaden/options.html)  
 
 ### Monetization  
 [Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
