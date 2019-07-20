@@ -91,8 +91,9 @@
 [Project Management Tools](https://silentwolfstudios.wordpress.com/2019/04/01/project-management-tools/)  
 [Boostnote - Notetaking app for programmers](https://boostnote.io/#community)    
 [Dropbox Paper](https://paper.dropbox.com/)  
-> Writing documentation will keep your project in scope, and minimise feature creeps. Only real devs write documentation and manuals for their team and their users to keep the project going. 
 https://collegeinfogeek.com/best-note-taking-apps/
+
+> Writing documentation will keep your project in scope, and minimise feature creeps. Only real devs write documentation and manuals for their team and their users to keep the project going. 
 <br>
 
 # Creating a Computer Game
