@@ -122,7 +122,7 @@ Written by nwy140 based on his limited self taught game dev experience and past 
   </p>
 </strike>
 </details>  
-[One Man Game Dev Team](https://gamedevelopment.tutsplus.com/articles/tips-for-a-one-man-gamedev-team-what-to-do-before-even-touching-a-computer--gamedev-813)  
+[Solo Game Dev Team](https://gamedevelopment.tutsplus.com/articles/tips-for-a-one-man-gamedev-team-what-to-do-before-even-touching-a-computer--gamedev-813)  
 
 ## The Asset Flipper
 ### Visual - Assets
