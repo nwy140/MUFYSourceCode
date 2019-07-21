@@ -413,8 +413,148 @@ I don't go to college to learn how to program, or learn some textbook algorithms
 
 College is just something to keep myself occupied, so that my brain won't die from doing nothing
 
+https://www.reddit.com/r/learnprogramming/comments/c64fon/should_i_study_computer_science_at_the_university/
+I just started my first semester at the UofU, with the intention of majoring in CS with EAE emphasis.But there's one thing that bothers me,
+
+a lot of these "Games" Major students are just wannabe game developers. They don't have a strong will to do their own self-learning , and they expect the university course to spoon-feed them with everything.
+
+I've met a lot of self taught devs who are even better game devs than these students.
+
+The only strong point of these "Games" majors student is that they have a lot of free labour man power. Each gamedev team usually have about 7-10 people, from what I've observed. These "Games" major students rarely work alone, it's like. I don't feel "Indie" here, it's like the people here are trying to simulate an "AAA" studio. I feel like I don't belong here.
+
+As a self taught dev before joining UofU, I was always working alone, and working in 1-5 people teams, in a startup, and gamejams around my country.
+
+Let me know your thoughts, PM me too if you have any questions.
+
+I used to be a very active indie game dev,
+
+before joining the UofU.
+
+It's just that, going to college, and seeing people expecting to be spoon-fed with everything, and rarely does their own self-learning, and side projects on their own, with pure dedication, pure passion, just killed my will and creativity as a self taught indie dev.
+
+A lot of these freshman and sophomore students have never made a real game before.
+
+They act as if they know a lot, even if they have only done 1 game jam. And they expect a lot of opportunities to be handed out to them, and they only expect themselves to publish an actual game on their 3rd year.
+
+it feel so wrong to me, I hate being spoon-fed, and working with wannabes who has no idea how things work, it feels so wrong. I used to work in a startup, with real game devs. Coming back to college for game devs, feels so wrong to me.
+
+Maybe it might be different to you.
+
+But, all college ever did to me, was that it made me feel less passionate about my work.
+
+All lot of the things they will teach you, you could've actually learnt all of them in a $10 udemy course.
+
+And they teach things in such a slow paced.
+
+I just don't know what I'm doing here, at the UofU.
+
+Leaving my job at an actual game company startup, to go to a university to study CS in eae games.Maybe, I should have just continued working, with the real game devs. And guess what, I got a job without a degree, with just pure portfolio, dedication and will.
+
+The UofU is full of wannabes programmers and game developers.
+
+Its true.
+
+Think twice, before joining.
 
 
+When I was self taught,I looked for opportunities on my own,
+
+took as many online courses, watch as many video tutorials I can find,
+
+started many game projects alone,
+
+looked for internships on my own.
+
+Went and did so many game jams alone, and sometimes with 1 or 2 strangers.
+
+Created my own playstore account and self published my own apps.
+
+
+And then when I came to the UofU,
+
+All I see is wannabes and inexperienced amateurs,
+
+who talk big about themselves,
+
+who have never made or even wrote a real game before.These are the type of people who end up working as a labour force at AAA companies.
+
+I just don't understand what I'm doing here anymore.
+
+I prefer an Indie vibe,
+
+than a AAA vibe.
+
+I don't know what I'm doing here,
+
+spending so much money for some CS degree my parents want me to go and get.
+
+When you could've learnt the exact same thing for only $10 dollars on Udemy.
+
+You can say, I'm suffering from imposter syndrome,
+
+but it's kind of the opposite,
+
+I'm suffering from academic disappointment syndrome,
+
+I'm disappointed with academics, and I'd rather do the real thing, work in a real job, than to go college to be spoon fed with everything.
+
+No wonder self taught devs are better than college taught devs.
+
+We don't expect to be spoon fed with anything. We don't expect opportunities to be handed to us, we look for opportunities.
+
+College kids want everything to be given to them, they are the true wannabes.
+
+
+Yeah, I'm feeling down right now.
+
+I used to be very full of myself as a self taught indie dev.
+
+But college killed my will and drive.
+
+But, for you, it might be different.
+
+Maybe college just isn't for me,
+
+the triple AAA just doesn't suit me.
+
+I'm an indie dev,
+
+not some guy who wants to become a slave labour for AAA studios, or some guy who spents so much money on the things that you could've learn online on Udemy for only $10.
+
+Seriously,
+
+just think about it.
+
+College might work for you,
+
+but it just doesn't work for an indie dev like me.
+
+I've been trying really hard to work on my own indie game on the side while balancing my college life,
+
+but, I kinda lost my touch, I hit a wall.
+
+And that wall didn't exist until I went to college.
+
+
+Look at Awesome Tuts
+
+https://www.youtube.com/watch?v=XKJ01MbX3x8&list=PL7K_cQ2aVeqn7VQFpv3QHpNszFCgvWoyv&index=2
+
+
+That guy is pure self-taught, and he is the real deal.
+
+Whereas the wannabes are all in college, and they want to be spoon-fed with everything.Think twice.
+
+The only reason why I came here, is because I wanted to enter the American Game Industry.Not because I wanted my degree, or to take the gamedev classes at the UofU.
+
+Spoon-feeding, academics, exams, assignments, all of these nonsense are distasteful to me.
+
+Honestly,
+
+maybe I just need to make something, learn something new. And stop acting like all these wannabes in college.
+
+
+and act like my old self who used to work in an actual game company, and someone who self-publishes his own apps on the playstore.
 </strike>
 
 
