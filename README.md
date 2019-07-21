@@ -448,7 +448,7 @@ And they teach things in such a slow paced.
 
 I just don't know what I'm doing here, at the UofU.
 
-Leaving my job at an actual game company startup, to go to a university to study CS in eae games.Maybe, I should have just continued working, with the real game devs. And guess what, I got a job without a degree, with just pure portfolio, dedication and will.
+Leaving my job at an actual game company startup, to go to a university to study CS in eae games.Maybe, I should have just continued working, with the real game devs. And guess what, I got that job without a degree, with just pure portfolio, dedication and will.
 
 The UofU is full of wannabes programmers and game developers.
 
