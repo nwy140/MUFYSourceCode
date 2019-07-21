@@ -413,6 +413,13 @@ I don't go to college to learn how to program, or learn some textbook algorithms
 
 College is just something to keep myself occupied, so that my brain won't die from doing nothing
 
+  okay, let's be real here
+  who goes to college to learn photoshop or 3d modeling , and game engines such as the Unreal engine anyway?
+  you can learn all those hhings online, for free. Like seriously.
+  the uofu games major, is  cash cow.
+  I am being honest here.
+  I just took a 3d modeling maya oourse. And it was really introductory. It only covered modeling. it doesnt cover rigging,animation and uv unwrapping all in nne class. It expects you to waste more money and take a separate llass for that
+  
 https://www.reddit.com/r/learnprogramming/comments/c64fon/should_i_study_computer_science_at_the_university/
 I just started my first semester at the UofU, with the intention of majoring in CS with EAE emphasis.But there's one thing that bothers me,
 
@@ -515,7 +522,7 @@ But, for you, it might be different.
 
 Maybe college just isn't for me,
 
-the triple AAA just doesn't suit me.
+the triple AAA vibe just doesn't suit me.
 
 I'm an indie dev,
 
