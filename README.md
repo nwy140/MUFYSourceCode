@@ -416,7 +416,7 @@ College is just something to keep myself occupied, so that my brain won't die fr
   okay, let's be real here
   who goes to college to learn photoshop or 3d modeling , and game engines such as the Unreal engine anyway?
   you can learn all those hhings online, for free. Like seriously.
-  the uofu games major, is  cash cow.
+  the uofu games major, is a cash cow.
   I am being honest here.
   I just took a 3d modeling maya oourse. And it was really introductory. It only covered modeling. it doesnt cover rigging,animation and uv unwrapping all in nne class. It expects you to waste more money and take a separate llass for that
   
