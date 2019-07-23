@@ -165,7 +165,7 @@ https://gamesounds.xyz/
 [Japanese Royalty Free BGM](https://dova-s.jp/bgm/play1241.html) [,Music Blends really well with the story in Towns of Tide](https://play.google.com/store/apps/details?id=com.rpgsnack.shiosai&hl=en_US)  
 
 ### Plot/Scene Writing
-[Game Dialogues References](https://lparchive.org/SteinsGate/)  
+[Game Dialogues References](https://lparchive.org/) [Stein;Gate VN](https://lparchive.org/SteinsGate/) [Pokemon Mystery Dungeon Explorer of Sky/Darkness/Time](https://lparchive.org/Pokemon-Mystery-Dungeon-Explorers-of-Sky/)  
 [Visual Novel](http://www.route59games.com/how-visual-novel-writing-is-different/) [,1](https://medium.com/mammon-machine-zeal/how-to-make-a-plan-to-write-a-visual-novel-in-a-month-so-you-can-finish-it-in-three-and-a-half-b5200f46ce1a) [,2](https://blog.cloudnovel.net/2018/05/24/how-to-plan-structure-of-your-visual-novel/) [,3](https://www.reddit.com/r/vndevs/comments/8ysyja/what_format_should_i_use_when_writing_a_visual/) ,[4](https://fuwanovel.net/2015/01/a-guide-to-making-visual-novels/)  
 [Cloud Novel - Online VN Maker And VN Game References](https://cloudnovel.net/)   
 [Fungus Unity VN Intergration](https://assetstore.unity.com/packages/templates/systems/fungus-34184) [,Fungus Dialogue Parser Conversation System](http://fungusdocs.snozbot.com/conversation_system.html)  
