@@ -345,7 +345,7 @@ https://github.com/Calinou/awesome-gamedev
 [Follow Me On Twitter](https://twitter.com/silentwolfsdios/)   
 [My Pininterest Reference Board](https://www.pinterest.com/madeofnothing/)  
 
-[3D Serius Character Art Sketchfab Portfolio (Current)](https://sketchfab.com/Ng.Wei.Yuen/collections/mayamodelling)  
+[3D Serious Character Art Sketchfab Portfolio (Current)](https://sketchfab.com/Ng.Wei.Yuen/collections/mayamodelling)  
 [3D Art Low Poly Bad Programmer Art Sketchfab Portfolio (Old)](https://sketchfab.com/Ng.Wei.Yuen/collections/blender-3d-art)  
 [2D Art Artstation Portfolio](https://www.artstation.com/nwy140)  
 [Mirror Link to this page](https://silentwolfstudios.wordpress.com/2019/04/19/tools001-techaccessconnections-bookmarks/)  
