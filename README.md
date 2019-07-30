@@ -217,7 +217,7 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [Itch.io](https://silentwolfstudios.itch.io/)     
 ### Marketing  
-[Forum:TIGSource](https://forums.tigsource.com/index.php?board=27.0)  
+[Forum:TIGSource](https://forums.tigsource.com/index.php#4)  
 [Forum:GameDev.Net](https://www.gamedev.net/forums/)  
 [Forum:IndieGamer](http://forums.indiegamer.com/)  
 [Forum:Itch.io](https://itch.io/community)  
