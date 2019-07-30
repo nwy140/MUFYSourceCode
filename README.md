@@ -219,7 +219,7 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 ### Marketing  
 [Forum:TIGSource](https://forums.tigsource.com/index.php#4)  
 [Forum:GameDev.Net](https://www.gamedev.net/forums/)  
-[Forum:IndieGamer](http://forums.indiegamer.com/)  
+[Forum:IndieGamer](http://forums.indiegamer.com/) [,MyProfile](http://forums.indiegamer.com/members/silentwolfstudios.454573/)   
 [Forum:Itch.io](https://itch.io/community)  
 [Forum:GameJolt](https://gamejolt.com/forums)    
 [Forum:UnityWIP](https://forum.unity.com/forums/works-in-progress.34/)  
@@ -240,7 +240,7 @@ PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.re
 
 
 ### Monetization  
-[Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
+[Google Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
 [Unity Ads](https://unity.com/solutions/unity-ads) ,Note: I've tried Unity Ads, its pays really little compared to Admob  
 
 
@@ -353,6 +353,7 @@ https://github.com/Calinou/awesome-gamedev
 [My Youtube Channel And My Own Indie Game Trailers](https://www.youtube.com/watch?v=ZzNhnY8gVZs&list=PL7K_cQ2aVeqmO1Q24ZXGs59B-EzJ7HCXz&index=2&t=0s)  
 
 [Check my GitLab Repos](https://gitlab.com/users/nwy140/projects)  
+[My Steam ID](https://steamcommunity.com/profiles/76561198394558088/)  
 
 [Connect with Me On LinkedIn](https://www.linkedin.com/in/ng-wei-yuen-9a0a72145)  
 [Follow Me On Facebook](https://www.facebook.com/silentwolfstudios/)   
