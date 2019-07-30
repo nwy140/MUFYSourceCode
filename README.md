@@ -216,9 +216,9 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [PlayStore Console](https://play.google.com/apps/publish/)   
 [GameJolt](https://gamejolt.com/@SilentWolfStudios/games)   
 [Itch.io](https://silentwolfstudios.itch.io/)     
-### Marketing  
-[Forum: TIGSource](https://forums.tigsource.com/index.php#4) [,MyProfile](https://forums.tigsource.com/index.php?action=profile;u=93053)    
-[Forum: GameDev.Net](https://www.gamedev.net/forums/) [,MyProfile](https://www.gamedev.net/profile/273672-silentwolfstudios/)   
+### Marketing    
+[Forum: TIGSource](https://forums.tigsource.com/index.php#4) [,MyProfile](https://forums.tigsource.com/index.php?action=profile;u=93053)       
+[Forum: GameDev.Net](https://www.gamedev.net/forums/) [,MyProfile](https://www.gamedev.net/profile/273672-silentwolfstudios/)     
 [Forum: IndieGamer](http://forums.indiegamer.com/) [,MyProfile](http://forums.indiegamer.com/members/silentwolfstudios.454573/)     
 [Forum: IndieDB](https://www.indiedb.com/forum) [,MyProfile](https://www.indiedb.com/members/silentwolfstudios)    
 [Forum: DevelTeam](https://www.develteam.com/) [,MyProfile](https://www.develteam.com/Developer/SIlentWolfStudios)  
@@ -231,16 +231,16 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [Forum: NewsGround](https://www.newgrounds.com/bbs) [,MyProfile](https://silentwolfstudios.newgrounds.com/)  
 [Forum: Itch.io](https://itch.io/community)  [,MyProfile](https://itch.io/profile/silentwolfstudios)   
 [Forum: GameJolt](https://gamejolt.com/forums)   [,MyProfile](https://gamejolt.com/@SilentWolfStudios/library)   
-[Forum: UnityWIP](https://forum.unity.com/forums/works-in-progress.34/)  
-[Forum: GameDev.tv](https://community.gamedev.tv/c/unity/showcase)  
+[Forum: UnityWIP](https://forum.unity.com/forums/works-in-progress.34/) [,MyProfile](https://forum.unity.com/members/nwy140.1449110/)     
+[Forum: GameDev.tv](https://community.gamedev.tv/c/unity/showcase) [,MyProfile](https://community.gamedev.tv/u/Nwy140/activity)      
 [Forum: Reddit](https://www.reddit.com/search?q=gamedev&type=sr%2Cuser)  
 [Forum: GameDevStackExchange](https://gamedev.stackexchange.com/questions/tagged/marketing)  
 
-**Mobile OS Specific**
-*Android Forums*
-[Forum: AndroidForums](https://androidforums.com/forums/android-apps-games.4/)  
-[Forum: TouchArcade](https://toucharcade.com/community/forums/android-games.32/)  
-[Forum: DroidForums](http://www.droidforums.net/forums/android-games-discussions.9/)  
+**Mobile OS Specific**   
+*Android Forums*   
+[Forum: AndroidForums](https://androidforums.com/forums/android-apps-games.4/)    
+[Forum: TouchArcade](https://toucharcade.com/community/forums/android-games.32/)      
+[Forum: DroidForums](http://www.droidforums.net/forums/android-games-discussions.9/)      
 [Forum: BuildBoxForumHyperCasual](https://www.buildbox.com/forum)  
 [Forum: AndroidGamesForum](http://androidappforums.com/)  
 [Forum: mobiles24](http://forum.mobiles24.co/forums/59-Android-Games/)  
