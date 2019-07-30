@@ -226,6 +226,15 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [Forum:GameDev.tv](https://community.gamedev.tv/c/unity/showcase)  
 [Forum:Reddit](https://www.reddit.com/search?q=gamedev&type=sr%2Cuser)  
 
+**Mobile OS Specific**
+*Android Forums*
+[Forum:AndroidForums](https://androidforums.com/forums/android-apps-games.4/)  
+[Forum:TouchArcade](https://toucharcade.com/community/forums/android-games.32/)  
+[Forum:DroidForums](http://www.droidforums.net/forums/android-games-discussions.9/)  
+[Forum:AndroidGamesForum](http://androidappforums.com/)
+[Forum:mobiles24](http://forum.mobiles24.co/forums/59-Android-Games/)  
+[Forum:AppInvasion](https://appinvasion.com/)  
+
 [A Huge CrapLoad of Facebook Game Dev Groups](https://drive.google.com/file/d/1ezQh3oDqvaivqXKZqkiPjInwgfi2u4qb/view?usp=sharing)   
 [Posting on Forums Guide](https://gdu.io/blog/marketing/)   
 [10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game)  
