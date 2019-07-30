@@ -124,6 +124,7 @@ Written by nwy140 based on his limited self taught game dev experience and past 
   </p>
 </strike>
 </details>  
+
 [Solo Game Dev Team](https://gamedevelopment.tutsplus.com/articles/tips-for-a-one-man-gamedev-team-what-to-do-before-even-touching-a-computer--gamedev-813)  
 
 ## The Asset Flipper
@@ -220,11 +221,20 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [Posting on Forums Guide](https://gdu.io/blog/marketing/)   
 [10 Places to find Beta Testers](https://ninichimusic.com/blog/2018/1/4/10-places-to-find-beta-testers-for-your-indie-game)  
 <br>
-GameDevSubredditPosts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
+GameDevSub
+
+Posts [FB](https://www.reddit.com/r/gamedev/comments/4zd86z/big_list_of_facebook_groups_you_should_join/)  [Release](https://www.reddit.com/r/gamedev/comments/6zlulx/11_places_to_publish_release_your_indie_game/)    
 PlaytestSubreddits [1](https://www.reddit.com/r/playmygame/)  [2](https://www.reddit.com/r/playtesters/)  
 [Sequester Gaming Youtube Streamer](https://www.youtube.com/channel/UCYUqSyY4fjbkF-FBYFX18Sw) [,Special Thanks](https://www.youtube.com/watch?v=SUcuviRjF7U)  
 [LiveStream From Browser](https://studio.golightstream.com)  
 [Record Screen Chrome Extension](https://chrome.google.com/webstore/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden?hl=en)  
+[Forum:TIGSource](https://forums.tigsource.com/index.php?board=27.0)  
+[Forum:GameDev.Net](https://www.gamedev.net/forums/)  
+[Forum:Itch.io](https://itch.io/community)  
+[Forum:GameJolt](https://gamejolt.com/forums)    
+[Forum:UnityWIP](https://forum.unity.com/forums/works-in-progress.34/)  
+[Forum:GameDev.tv](https://community.gamedev.tv/c/unity/showcase)  
+
 
 ### Monetization  
 [Admob](https://admob.google.com/home/) , Generates $5USD from just 3000 downloads, and 100 active users, per month  
