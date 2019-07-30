@@ -220,11 +220,13 @@ https://assetstore.unity.com/packages/tools/utilities/55959
 [Forum:TIGSource](https://forums.tigsource.com/index.php#4)  
 [Forum:GameDev.Net](https://www.gamedev.net/forums/) [,MyProfile](https://www.gamedev.net/profile/273672-silentwolfstudios/)  
 [Forum:IndieGamer](http://forums.indiegamer.com/) [,MyProfile](http://forums.indiegamer.com/members/silentwolfstudios.454573/)   
+[Forum:IndieDB](https://www.indiedb.com/forum)  
 [Forum:Itch.io](https://itch.io/community)  
 [Forum:GameJolt](https://gamejolt.com/forums)    
 [Forum:UnityWIP](https://forum.unity.com/forums/works-in-progress.34/)  
 [Forum:GameDev.tv](https://community.gamedev.tv/c/unity/showcase)  
 [Forum:Reddit](https://www.reddit.com/search?q=gamedev&type=sr%2Cuser)  
+[Forum:GameDevStackExchange](https://gamedev.stackexchange.com/questions/tagged/marketing)  
 
 **Mobile OS Specific**
 *Android Forums*
