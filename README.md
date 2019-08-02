@@ -297,7 +297,7 @@ https://github.com/Calinou/awesome-gamedev
 # University Of Utah
 ## CS in Games With EAE Emphasis
 [Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
-[CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf)  
+[CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf) [| Progress](https://drive.google.com/file/d/1MDAQcYhtSsfSkvVZJGALYtfKAw3oAPxN/view?usp=sharing)  
 <br>
 
 ## Writing Academic Papers
