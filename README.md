@@ -52,6 +52,7 @@
 
 [Computer Graphics: Blender 3D Character Modelling/Art](https://www.udemy.com/cartoon-character-modeling-in-blender/)  [,  Alternative Tutorial 1](https://www.udemy.com/create-your-own-character/learn/)        
 [Computer Graphics: Blender 3D Prop Modelling Long Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists) [.Complete Workflow](https://www.youtube.com/user/aadigitalproductions/playlists)    
+[Computer Graphics" Blender 2.8](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)  
 [Computer Graphics: Maya 3D Modelling Channels](https://www.youtube.com/watch?v=ZZOd1ZaAxPs&feature=youtu.be)  
 [Computer Graphics: Maya Character Pipeline](https://medium.com/@homicidalnacho/3d-modelling-pipeline-bd9be7dba136) [.Box Modelling](https://www.youtube.com/playlist?list=PLSUtzVs5X8UR0YUg6bLvBHameFk5loqD_) [, UV Unwrapping](https://www.youtube.com/playlist?list=PLSUtzVs5X8URlXeo1so9wmLfmKcdbG1Sj) [Texturing](https://www.youtube.com/playlist?list=PLSUtzVs5X8UQLIVF-d-9HVJwyoPc7qUXh) [Rigging](https://www.youtube.com/playlist?list=PLSUtzVs5X8URhplyNJ24ZztO3tmEPSJfG)    
 [Computer Graphics: Maya HighRes Modelling](https://beta.gameschoolonline.com/courses/ea-101-introduction-to-modeling-with-maya)  
