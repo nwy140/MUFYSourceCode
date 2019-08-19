@@ -350,11 +350,17 @@ Documents Collections](https://www.coursehero.com/sitemap/schools/2382-Universit
 [Hidden Campus Computer Lab](https://Iwon'tleakmylocationtoyou)
 
 # Salt Lake City Development Communities  
+## Campus Events
+[UofU Events](https://www.utah.edu/events/)  
+[Events AtTheU](https://attheu.utah.edu/events/)  
+[Marriot Library Events](https://lib.utah.edu/info/news.php)  
+[School Of Computing Calender](http://www.cs.utah.edu/events/)  
+[UofU GameCraft Club](https://www.facebook.com/gamecraftUofU/)   
+
 ## Groups
 [Meetup.com ReactNativeUtah](https://www.meetup.com/React-Native-Utah/)  [,Slack Group](https://tiny.cc/watf7y)  
 [Meetup.com ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)   [,Slack Group](https://slack.utahjs.com/)  
 [IGDA SLC](https://www.facebook.com/IGDASLC)   
-[GameCraft](https://www.facebook.com/gamecraftUofU/)   
 [Utah Games Guild](http://utahgamesguild.com/)   
 
 ## Events and Meetups
