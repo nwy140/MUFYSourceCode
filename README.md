@@ -8,12 +8,12 @@
   - [The Asset Flipper](#The-Asset-Flipper)
   - [Development Tools that I Actually Use](#Development-Tools-that-I-Actually-Use) 
 - [Marketing](#Marketing)  
-- [University Of Utah  (We are one step ahead!!!)](#University-Of-Utah)   
-  - [CS in Games With EAE Emphasis](#CS-in-Games-With-EAE-Emphasis)  
+- [University Of   (We are one step ahead!!!)](#University-Of-)   
+  - [ABCD](#CS-in-Games-With-EAE-Emphasis)  
   - [Writing Academic Papers](#Writing-Academic-Papers)  
   - [Gen Ed](#Gen-Ed)
   - [Class Registration](#Class-Registration)  
-  - [Utah Online Services](#Utah-Online-Services)  
+  - [ Online Services](#-Online-Services)  
   - [Tech Services](#Tech-Services)
   - [Hackerspaces](#Hackerspaces)
 - [Salt Lake City Development Communities & Networking](#Salt-Lake-City-Development-Communities)
@@ -68,7 +68,7 @@
 [Git GUI Client: GitKraken](https://www.gitkraken.com/)  
 
 [~~Free~~ Courses](https://www.bitdegree.org/courses?tag=game-dev)    
-[Lydna (Free for Utah SLCPL Card Holders)](https://www.lynda.com/Game-Development-training-tutorials/1679-0.html) [, register for a card here](https://goo.gl/maps/UVZGBMdHKQUqhHQT7)  
+[Lydna (Free for  SLCPL Card Holders)](https://www.lynda.com/Game-Development-training-tutorials/1679-0.html) [, register for a card here](https://goo.gl/maps/UVZGBMdHKQUqhHQT7)  
 [Salt Lake City Library Tech Services](http://slcpl.org/digitallibrary)  
 <br>
 > Real Programmers write their own software and do their own self-learning on their own to progress and adapt to any new trends in the tech industry. Those who don't are just code monkeys.
@@ -106,7 +106,7 @@ https://collegeinfogeek.com/best-note-taking-apps/
 [One Hour Game Jams](https://onehourgamejam.com/)  **There's no excuse to skip this jam, because it's too short**  
 [Ludum Dare Game Jam (Twice a Year)](https://ldjam.com/)  
 [Global Game Jam (Once a Year)](https://globalgamejam.org/)  
-[Utah GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
+[ GameCraft Game Jams](https://www.facebook.com/pg/gamecraftUofU/events/?ref=page_internal)  
 Goal: "Finish a game, take it to market, and earn $1"  
 Time Limit : 48 Hours  
 Optional Challenge: Do everything Alone
@@ -296,19 +296,19 @@ https://github.com/Calinou/awesome-gamedev
 
 <br>
 
-# University Of Utah
-## CS in Games With EAE Emphasis
-[Utah School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
-[CS in Eae Syllbabus](https://www.cs.utah.edu/docs/Undergraduate/CSGAMES_2018-19.pdf) [| Progress](https://drive.google.com/file/d/1MDAQcYhtSsfSkvVZJGALYtfKAw3oAPxN/view?usp=sharing)  [| Generic](www.cs.utah.edu/docs/Undergraduate/CSMajor_2018-19.pdf) [| Page](http://www.cs.utah.edu/program/)  
+# University Of 
+## ABCD
+[ School Of Computing CS Lectures Archive](https://www.youtube.com/channel/UC7hH04JUy-j_n3aPSA5qZUw/videos)  
+[CS in Eae Syllbabus](https://www.cs..edu/docs/Undergraduate/CSGAMES_2018-19.pdf) [| Progress](https://drive.google.com/file/d/1MDAQcYhtSsfSkvVZJGALYtfKAw3oAPxN/view?usp=sharing)  [| Generic](www.cs..edu/docs/Undergraduate/CSMajor_2018-19.pdf) [| Page](http://www.cs..edu/program/)  
 <br>
 
 ## Writing Academic Papers
 [Etherpad](https://etherpad.net/p/ecYLMeiYUj) [,Mozilla host](https://public.etherpad-mozilla.org/p/gittech)   
 [DraftIn](https://draftin.com/) [Why use DraftIn?](http://docs.withdraft.com/)  
-[DropboxPaper](https://paper.dropbox.com/folder/show/UtahAcademia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
+[DropboxPaper](https://paper.dropbox.com/folder/show/Academia-e.1gg8YzoPEhbTkrhvQwJ2zzy16ZtqRTuYj6vOsXFzICYh8OBziSeE)  
 [Google Suites: Docs,Drive,Slides](https://drive.google.com/drive/u/0/folders/1RQ0lr9JwPm6peRki7IBs3irbrfDkQ-WF)  
-[Utah Calender DeadLines](https://utah.instructure.com/calendar)  
-[Utah Library Journals Search](https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=UTAH&offset=0)  
+[ Calender DeadLines](https://.instructure.com/calendar)  
+[ Library Journals Search](https://-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,React%20native&tab=everything&search_scope=EVERYTHING&vid=&offset=0)  
 [Academia.edu Journals Search](https://www.academia.edu/)  
 [Google Scholar Citation Search](https://scholar.google.com/)   
 [Citation Machine](http://www.citationmachine.net/mla/cite-a-website)  
@@ -316,32 +316,32 @@ https://github.com/Calinou/awesome-gamedev
 
 ## Gen Ed
 [General Academic Resources](https://github.com/nwy140/MUFYSourceCode/blob/master/PureAcademia.md)  
-[Gen Ed Requirements](https://catalog.utah.edu/#/programs/HkpBsMW6z?)  
-[Class Canvas Mobile App](https://play.google.com/store/apps/details?id=com.instructure.candroid&hl=en_US)[, Web Version](https://utah.instructure.com)  
+[Gen Ed Requirements](https://catalog..edu/#/programs/HkpBsMW6z?)  
+[Class Canvas Mobile App](https://play.google.com/store/apps/details?id=com.instructure.candroid&hl=en_US)[, Web Version](https://.instructure.com)  
 
-## Utah Online Services
-[Utah Student Portal](http://cis.utah.edu)  
-[Utah Mail](https://umail.utah.edu)  
+##  Online Services
+[ Student Portal](http://cis..edu)  
+[ Mail](https://umail..edu)  
 [Campus Bus Tracker](https://www.uofubus.com/)    
-[Utah Map](http://map.utah.edu)  
+[ Map](http://map..edu)  
 
 ## Class Registration
-[Courses/Class Schedules](https://www.utah.edu/students/catalog.php)  
-[Register for Classes, send to cart to register](https://utah.collegescheduler.com)    
-[Course Information //Change Class Catalogue in URL](https://www.coursicle.com/utah/courses/EAE/)     
+[Courses/Class Schedules](https://www..edu/students/catalog.php)  
+[Register for Classes, send to cart to register](https://.collegescheduler.com)    
+[Course Information //Change Class Catalogue in URL](https://www.coursicle.com//courses/EAE/)     
 [Course 
-Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-Utah/)   
-[RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+Utah&schoolID=1606&queryoption=TEACHER)
+Documents Collections](https://www.coursehero.com/sitemap/schools/2382-University-of-/)   
+[RateMyProfessors 😐](https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=University+of+&schoolID=1606&queryoption=TEACHER)
 <br>
 
 ## Communications and Networking
-[College Clubs](https://leadership.utah.edu/find-an-org.php)
+[College Clubs](https://leadership..edu/find-an-org.php)
 [UofUSubreddit](https://www.reddit.com/r/uofu/)  
 
 ## Tech Services
-[Remote Software](http://www.lib.utah.edu/services/labs/software.php)  
-[Safari Books Online (Free forr Utah Students)](https://na02.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=12486740300002001&institutionId=2001&customerId=2000)  
-[Marriot Library Free Movies](https://digitalcampus.swankmp.net/utahdatabase/#/digitalCampus/browse)  
+[Remote Software](http://www.lib..edu/services/labs/software.php)  
+[Safari Books Online (Free forr  Students)](https://na02.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=12486740300002001&institutionId=2001&customerId=2000)  
+[Marriot Library Free Movies](https://digitalcampus.swankmp.net/database/#/digitalCampus/browse)  
 
 
 ## Hackerspaces
@@ -351,23 +351,23 @@ Documents Collections](https://www.coursehero.com/sitemap/schools/2382-Universit
 
 # Salt Lake City Development Communities  
 ## Campus Events
-[UofU Events](https://www.utah.edu/events/)  
-[Events AtTheU](https://attheu.utah.edu/events/)  
-[Marriot Library Events](https://lib.utah.edu/info/news.php)  
-[School Of Computing Calender](http://www.cs.utah.edu/events/)  
+[UofU Events](https://www..edu/events/)  
+[Events AtTheU](https://attheu..edu/events/)  
+[Marriot Library Events](https://lib..edu/info/news.php)  
+[School Of Computing Calender](http://www.cs..edu/events/)  
 [UofU GameCraft Club](https://www.facebook.com/gamecraftUofU/)   
 
 ## Groups
-[Meetup.com ReactNativeUtah](https://www.meetup.com/React-Native-Utah/)  [,Slack Group](https://tiny.cc/watf7y)  
-[Meetup.com ReactJS Utah](https://www.meetup.com/ReactJS-Utah/)   [,Slack Group](https://slack.utahjs.com/)  
+[Meetup.com ReactNative](https://www.meetup.com/React-Native-/)  [,Slack Group](https://tiny.cc/watf7y)  
+[Meetup.com ReactJS ](https://www.meetup.com/ReactJS-/)   [,Slack Group](https://slack.js.com/)  
 [IGDA SLC](https://www.facebook.com/IGDASLC)   
-[Utah Games Guild](http://utahgamesguild.com/)   
+[ Games Guild](http://gamesguild.com/)   
 
 ## Events and Meetups
-[Lassonde Studios Events](https://lassonde.utah.edu/calendar#/?i=6)  
-[Meetup.com SLC](https://www.meetup.com/find/events/?allMeetups=true&radius=25&userFreeform=84112&gcResults=Salt+Lake+City%2C+UT+84112%2C+USA%3AUS%3AUtah%3ASalt+Lake+County%3ASalt+Lake+City%3Anull%3A84112%3A40.7652201%3A-111.84195360000001&change=yes)   
+[Lassonde Studios Events](https://lassonde..edu/calendar#/?i=6)  
+[Meetup.com SLC](https://www.meetup.com/find/events/?allMeetups=true&radius=25&userFreeform=84112&gcResults=Salt+Lake+City%2C+UT+84112%2C+USA%3AUS%3A%3ASalt+Lake+County%3ASalt+Lake+City%3Anull%3A84112%3A40.7652201%3A-111.84195360000001&change=yes)   
 [Salt Lake City Library Events](https://events.slcpl.org/events?r=thismonth)   
-[UofU CIS Handshake Career Fairs/Events](https://utah.joinhandshake.com/recommendation_collections/4) Login via utah CIS  
+[UofU CIS Handshake Career Fairs/Events](https://.joinhandshake.com/recommendation_collections/4) Login via  CIS  
 
 
 
